@@ -19,12 +19,7 @@ redirect_from:
 
 # ℹ️ Short Bio
 
-Hi, I'm Yuanzhe, a master student at University of Califronia, San Diego. I have the great honor of being collaborating with Prof. [Yaoqing Yang](https://sites.google.com/site/yangyaoqingcmu/), [Julian McAuley](https://cseweb.ucsd.edu/~jmcauley/), [Zhiting Hu](https://zhiting.ucsd.edu), and Dr. [Ren Pu](https://paulpuren.github.io), [Yu Wang](https://yuwang.us), [Zexue He](https://zexuehe.github.io)
-
-My current research is focused on
-
-- Understanding the mechanisms, dynamics and generalization of LLM pruning and post-training via mathematical analysis.
-- Memory and Reasoning in LLM & Agent.
+Hi, I'm Peilin, a master student at University of Califronia, San Diego.
 
 I am actively seeking for <span style="color: red;">**26 Fall CS/ECE/DS PhD Positions**</span>, **industrial research internship** after M.S graduation (about six months), and **collobration opportunities** on Agentic Learning. Feel free to reach out! 
 
@@ -47,12 +42,12 @@ I am actively seeking for <span style="color: red;">**26 Fall CS/ECE/DS PhD Posi
       <img src="./images/hust_badge.png" width="80">
     </td>
     <td style="border: none; vertical-align: middle;">
-      <b>Huazhong University of Science and Technology (HUST)</b><br>
-      B.S. in Artificial Intelligence, Innovation Experimental Honor Class, Qiming School<br>
-      GPA: 3.91/4.0
+      <b>Wuhan University of Technology (WUT)</b><br>
+      B.S. in Information and computing science (Mathematics)<br>
+      GPA: 4.07/5.00
     </td>
     <td style="text-align: right; border: none; vertical-align: middle; white-space: nowrap;">
-      <i>2020.09 - 2024.06</i>
+      <i>2018.09 - 2022.06</i>
     </td>
   </tr>
 </table>
@@ -217,8 +212,7 @@ Yu Wang, Dmitry Krotov, **Yuanzhe Hu**, Yifan Gao, Wangchunshu Zhou, Julian McAu
 - *2025.07*: &nbsp;😁 We open-sourced the [MemoryAgentBench](https://github.com/HUST-AI-HYZ/MemoryAgentBench). Thanks for the great help from [Yu Wang](https://yuwang.us)! 
 - *2025.05*: &nbsp;🎉🎉 Two papers are accepted by [ICML 2025](https://icml.cc/) as **Poster**! See you at Vancouver.
 - *2024.09*: &nbsp;🎉🎉 Excited to share that our work “Model Balancing Helps Low-data Training and Fine-tuning” is accepted by [EMNLP 2024](https://2024.emnlp.org) as **Oral Presentation**!
-- *2024.06*: &nbsp;😁 I graduated from HUST!
-- *2024.06*: &nbsp;😄 I created my account on OpenReview!
+- *2022.06*: &nbsp;😁 I graduated from WUT!
 
 Last Update: 10/2025
 
