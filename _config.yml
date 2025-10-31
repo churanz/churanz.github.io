@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Yuanzhe Hu"
+title                    : "Peilin Tan"
 description              : ""
-repository               : "HUST-AI-HYZ/HUST-AI-HYZ.github.io"
+repository               : "PeilinTime/PeilinTime.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,15 +21,15 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Yuanzhe Hu"
-  avatar           : "/images/profile.jpg"
+  name             : "Peilin Tan"
+  avatar           : ""
   bio              : "Master Student @ UCSD, CSE"
   location         : "La Jolla, CA, USA"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=ehBiQEUAAAAJ&hl=en&authuser=2"
-  semanticscholar  : "https://www.semanticscholar.org/author/Yuanzhe-Hu/2326252204"
-  email            : "yzhu.ml@outlook.com"
+  googlescholar    : "https://scholar.google.com/citations?user=7RbvI7MAAAAJ&hl=en"
+  semanticscholar  : ""
+  email            : "p9tan@ucsd.edu"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -38,13 +38,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "HUST-AI-HYZ"
+  github           : "PeilinTime"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "yuanzhe-hu-17a2702b6"
+  linkedin         : ""
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
@@ -58,7 +58,7 @@ author:
   twitter          : "YzhuML"
   youtube          :
   wikipedia        :
-  CV           : "./pdf/Yuanzhe_Hu_CV.pdf"
+  CV           : ""
   
 
 # Reading Files
