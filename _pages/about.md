@@ -21,7 +21,7 @@ redirect_from:
 
 Hi, I'm Peilin, a master student at University of Califronia, San Diego.
 
-I am actively seeking for <span style="color: red;">**26 Fall CS/ECE/DS PhD Positions**</span>, **Research Assistant Positions** after M.S graduation (about six months), and **collobration opportunities**. Feel free to reach out! 
+I am actively seeking for <span style="color: red;">**26 Fall CS/ECE/DS PhD Positions**</span> and <span style="color: red;">**Research Assistant Positions**</span> after M.S graduation (about six months), and <span style="color: red;">**collobration opportunities**</span>. Feel free to reach out!
 
 # 📖 Educations
 <table>
@@ -58,7 +58,7 @@ I am actively seeking for <span style="color: red;">**26 Fall CS/ECE/DS PhD Posi
 
 <span style="color: #5DADE2;"># denotes equal contribution</span>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/paper_main/ICML2025_FARMS.jpg' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/paper_main/overview of H3M-SSMoEs.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **[1] H3M-SSMoEs: Hypergraph-based Multimodal Learning with LLM Reasoning and Style-Structured Mixture of Experts**
@@ -78,7 +78,7 @@ I am actively seeking for <span style="color: red;">**26 Fall CS/ECE/DS PhD Posi
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2024</div><img src='images/paper_main/EMNLP_2024.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/paper_main/MaGNet Framework .png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **[2] MaGNet: A Mamba Dual-Hypergraph Network for Stock Prediction via Temporal-Causal and Global Relational Learning**
@@ -100,29 +100,26 @@ I am actively seeking for <span style="color: red;">**26 Fall CS/ECE/DS PhD Posi
 
 ## Contributed
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/paper_main/Mem_Alpha.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/paper_main/Contend-LP.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**[4] Contend-LP:Conflict-Resilient Directed Graph Embeddings for Link Prediction**
+**[3] Contend-LP:Conflict-Resilient Directed Graph Embeddings for Link Prediction**
 
 Chuanqi Shi, Asif Ali Muhammad, **Peilin Tan**, Liang Xie, Yulong Wang, Ying Sha and Huan Wang
 
 **Under Review**
 
-
 **Short Summary:** Contend-LP, a conflict-resilient framework for directed link prediction that disentangles node-level invariant representations and edge-level asymmetric modeling through adversarial alignment.
 
-<a href="https://github.com/wangyu-ustc/Mem-alpha"><img src="https://img.shields.io/github/stars/wangyu-ustc/Mem-alpha.svg" alt="Star Count"></a>
-
 </div>
 </div>
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Tech Report</div><img src='images/paper_main/K2-Think.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/paper_main/ARFM' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**[5] ARFM: Adaptive Reinforced Filtering Method for Identifying Spurious Links in Noisy Social Networks**
+**[4] ARFM: Adaptive Reinforced Filtering Method for Identifying Spurious Links in Noisy Social Networks**
 
 Chuanqi Shi, Asif Ali Muhammad, **Peilin Tan**, Liang Xie, Yulong Wang, Ying Sha and Huan Wang
 
@@ -135,10 +132,10 @@ Chuanqi Shi, Asif Ali Muhammad, **Peilin Tan**, Liang Xie, Yulong Wang, Ying Sha
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='images/paper_main/ICML2025_Mplus.jpg' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/paper_main/DPL.pdf' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**[6] Missing Directions in Directed Relation Learning? Equivalent Projection Alignment Makes It Possible**
+**[5] Missing Directions in Directed Relation Learning? Equivalent Projection Alignment Makes It Possible**
 
 Chuanqi Shi, Muhammad Asif Ali, **Peilin Tan**, Huan Wang
 
@@ -151,7 +148,7 @@ Chuanqi Shi, Muhammad Asif Ali, **Peilin Tan**, Huan Wang
 </div>
 </div>
 
-**[7] Missing Directions in Directed Relation Learning? Equivalent Projection Alignment Makes It Possible**
+**[6] LOSTFormer: Linear Orthogonal Spatio-Temporal Transformer with Learnable Rotation**
 
 Yechen Yu, Liang Xie, Jiankai Zheng, **Peilin Tan**
 
