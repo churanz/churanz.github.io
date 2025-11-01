@@ -50,7 +50,7 @@ I am actively seeking for <span style="color: red;">**26 Fall CS/ECE/DS PhD Posi
     </td>
     <td style="border: none; vertical-align: middle;">
       <b>Wuhan University of Technology (WUT)</b><br>
-      B.S. in Information and computing science (Mathematics)<br>
+      B.S. in Information and Computing Science (Mathematics)<br>
     </td>
     <td style="text-align: right; border: none; vertical-align: middle; white-space: nowrap;">
       <i>2018.09 - 2022.06</i>
