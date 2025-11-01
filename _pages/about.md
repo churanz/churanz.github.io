@@ -116,7 +116,7 @@ Chuanqi Shi, Asif Ali Muhammad, **Peilin Tan**, Liang Xie, Yulong Wang, Ying Sha
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/paper_main/ARFM' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/paper_main/ARFM.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **[4] ARFM: Adaptive Reinforced Filtering Method for Identifying Spurious Links in Noisy Social Networks**
