@@ -28,7 +28,7 @@ My current research is focused on
 - Spatio-temporal and Relational Modeling for Financial Time Series Forecasting.
 - Multimodal Learning with Large Language Models (LLMs).
 
-I am actively seeking for <span style="color: red;">**26 Fall CS/ECE/DS PhD Positions**</span> and <span style="color: red;">**Research Assistant Positions**</span> after M.S graduation (about six months), and <span style="color: red;">**collobration opportunities**</span>. Feel free to reach out!
+I am actively seeking for <span style="color: red;">**26 Fall CS/ECE/DS PhD Positions**</span> and <span style="color: red;">**Research Assistant Positions**</span> after M.S graduation (about five months), and <span style="color: red;">**collobration opportunities**</span>. Feel free to reach out!
 
 # 📖 Educations
 <table>
