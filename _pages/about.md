@@ -21,7 +21,7 @@ redirect_from:
 
 Hi, I'm Peilin, a master student at University of Califronia, San Diego.
 
-I am actively seeking for <span style="color: red;">**26 Fall CS/ECE/DS PhD Positions**</span>, **industrial research internship** after M.S graduation (about six months), and **collobration opportunities**. Feel free to reach out! 
+I am actively seeking for <span style="color: red;">**26 Fall CS/ECE/DS PhD Positions**</span>, **Research Assistant Positions** after M.S graduation (about six months), and **collobration opportunities**. Feel free to reach out! 
 
 # 📖 Educations
 <table>
@@ -51,24 +51,6 @@ I am actively seeking for <span style="color: red;">**26 Fall CS/ECE/DS PhD Posi
   </tr>
 </table>
 
-# ⚙️ Open Source Project
-
-<table>
-  <tr>
-    <td style="width: 80px; border: none; padding: 10px 15px 10px 0;">
-      <img src="./images/mirix_logo.png" width="180">
-    </td>
-    <td style="border: none; vertical-align: middle;">
-      <b>MIRIX: Multi-Agent Memory System for LLM-Based Agents</b><br>
-      My Contribution: Designed the framework for MIRIX's Evaluation, project maintenance and bug solving.<br><br>
-      <a href="https://mirix.io"><img src="https://img.shields.io/badge/Website-mirix.io-A569BD?logo=googlechrome&logoColor=white" alt="Website"></a>
-      <a href="https://github.com/Mirix-AI/MIRIX"><img src="https://img.shields.io/github/stars/Mirix-AI/MIRIX.svg" alt="Star Count"></a>
-      <a href="https://github.com/Mirix-AI/MIRIX"><img src="https://img.shields.io/github/forks/Mirix-AI/MIRIX.svg" alt="Fork Count"></a>
-    </td>
-  </tr>
-</table>
-
-
 
 # 📝 Writing Samples 
 
@@ -76,20 +58,20 @@ I am actively seeking for <span style="color: red;">**26 Fall CS/ECE/DS PhD Posi
 
 <span style="color: #5DADE2;"># denotes equal contribution</span>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='images/paper_main/ICML2025_FARMS.jpg' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/paper_main/ICML2025_FARMS.jpg' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**[1] Eigenspectrum Analysis of Neural Networks without Aspect Ratio Bias**
+**[1] H3M-SSMoEs: Hypergraph-based Multimodal Learning with LLM Reasoning and Style-Structured Mixture of Experts**
 
-**Yuanzhe Hu**, Kinshuk Goel, Vlad Killiakov, Yaoqing Yang
+**Peilin Tan**, Liang Xie, {Churan Zhi#, Dian Tu#, Chuanqi Shi#}
 
-**ICML 2025**
+**Under Review**
 
-**Short Summary:** A layer-wise LLM pruning method inspired by Marchenko–Pastur (MP) law. 
+**Short Summary:** H3M-SSMoEs, a hypergraph-based multimodal framework combining LLM reasoning and style-structured experts for stock prediction. 
 
-[Paper](https://arxiv.org/abs/2506.06280) \| [Video](https://icml.cc/virtual/2025/poster/46300) \| [Review](https://openreview.net/forum?id=7ywj1B3DuO&referrer=%5BAuthor%20Console%5D%2Fgroup%3Fid%3DICML.cc%2F2025%2FConference%2FAuthors%23your-submissions)  
+[Paper](https://arxiv.org/abs/2510.25091)
 
-<a href="https://github.com/HUST-AI-HYZ/FARMS"><img src="https://img.shields.io/github/stars/HUST-AI-HYZ/FARMS.svg" alt="Star Count"></a>
+<a href="https://github.com/PeilinTime/H3M-SSMoEs"><img src="https://github.com/PeilinTime/H3M-SSMoEs/blob/main/figure/overview%20of%20H3M-SSMoEs.png" alt="Star Count"></a>
 
 </div>
 </div>
@@ -99,41 +81,18 @@ I am actively seeking for <span style="color: red;">**26 Fall CS/ECE/DS PhD Posi
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2024</div><img src='images/paper_main/EMNLP_2024.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**[2] Model Balancing Helps Low-data Training and Fine-tuning**
+**[2] MaGNet: A Mamba Dual-Hypergraph Network for Stock Prediction via Temporal-Causal and Global Relational Learning**
 
-{Zihang Liu#, **Yuanzhe Hu#**}, Tianyu Pang, Yefan Zhou, Pu Ren, Yaoqing Yang
+**Peilin Tan**, Chuanqi Shi, Dian Tu and Liang Xie
 
-**EMNLP 2024 <span style="color: red;">, Oral (168/6105=2.75%), Meta Review OA=5.0</span>**
+**Under Review**
 
-**Short Summary:** Learning rate scheduler for LLM fine-tuning on low-source dataset. 
-
-
-[Paper](https://arxiv.org/abs/2410.12178) \| [Video](https://us06web.zoom.us/rec/play/5RHeJiEVuG-yw_Ytt9cHPMzqEIm2xWenwjhHjJ4yt7camtmQObTndJ56YgBBw0A1TlNRGiwZ2MAw5klz.7Xm2WgzcHdxPjGqm?autoplay=true) \| [Review](./pdf/paper_review/Model_balancing_review.pdf)
-
-<a href="https://github.com/ZihangHLiu/ModelBalancing"><img src="https://img.shields.io/github/stars/ZihangHLiu/ModelBalancing.svg" alt="Star Count"></a>
+**Short Summary:** MaGNet, a Mamba dual-hypergraph network that integrates advanced temporal modeling with dual hypergraph relational learning to capture both causal and global market dependencies. 
 
 
-</div>
-</div>
+[Paper](https://arxiv.org/abs/2510.25091)
 
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/paper_main/MemAgentBench.png' alt="sym" width="80%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**[3] Evaluating Memory in LLM Agents via Incremental Multi-Turn Interactions**
-
-{**Yuanzhe Hu#**, Yu Wang#}, Julian McAuley
-
-Under Review / **ICML 2025 LCFM Workshop**
-
-**Short Summary:**  MemoryAgentBench is a new benchmark designed to comprehensively evaluate memory agents in LLMs. 
-
-
-[Paper](https://arxiv.org/abs/2507.05257v2)
-
-<a href="https://github.com/HUST-AI-HYZ/MemoryAgentBench"><img src="https://img.shields.io/github/stars/HUST-AI-HYZ/MemoryAgentBench.svg" alt="Star Count"></a> <a href="https://huggingface.co/datasets/ai-hyz/MemoryAgentBench"><img src="https://img.shields.io/badge/Dataset-HuggingFace-FFD21E?logo=huggingface" alt="HF Dataset"></a> <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fhuggingface.co%2Fapi%2Fdatasets%2Fai-hyz%2FMemoryAgentBench%3Fexpand%255B%255D%3DdownloadsAllTime&query=%24.downloadsAllTime&label=Total%20Downloads&color=orange&logo=huggingface&cacheSeconds=3600" alt="Dataset Downloads"> 
-
+<a href="https://github.com/PeilinTime/MaGNet"><img src="https://github.com/PeilinTime/MaGNet/blob/main/figrues/MaGNet%20Framework.png" alt="Star Count"></a>
 
 
 </div>
@@ -144,19 +103,16 @@ Under Review / **ICML 2025 LCFM Workshop**
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/paper_main/Mem_Alpha.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**[4] Mem-$\alpha$: Learning Memory Construction via Reinforcement Learning**
+**[4] Contend-LP:Conflict-Resilient Directed Graph Embeddings for Link Prediction**
 
-Yu Wang, Ryuichi Takanobu, Zhiqi Liang, Yuzhen Mao, **Yuanzhe Hu**, Julian McAuley, Xiaojian Wu
+Chuanqi Shi, Asif Ali Muhammad, **Peilin Tan**, Liang Xie, Yulong Wang, Ying Sha and Huan Wang
 
 **Under Review**
 
 
-**Short Summary:** Mem-alpha, a reinforcement learning framework, enhances memory management in LLMs through interaction and feedback.
+**Short Summary:** Contend-LP, a conflict-resilient framework for directed link prediction that disentangles node-level invariant representations and edge-level asymmetric modeling through adversarial alignment.
 
-
-[Paper](https://arxiv.org/abs/2509.25911) 
-
-<a href="https://github.com/wangyu-ustc/Mem-alpha"><img src="https://img.shields.io/github/stars/wangyu-ustc/Mem-alpha.svg" alt="Star Count"></a>  <a href="https://mp.weixin.qq.com/s/a030XuwxVrVZBbrR8qfxNQ"><img src="https://img.shields.io/badge/Media-量子位-1ABC9C?logo=wechat" alt="量子位"></a>
+<a href="https://github.com/wangyu-ustc/Mem-alpha"><img src="https://img.shields.io/github/stars/wangyu-ustc/Mem-alpha.svg" alt="Star Count"></a>
 
 </div>
 </div>
@@ -166,19 +122,13 @@ Yu Wang, Ryuichi Takanobu, Zhiqi Liang, Yuzhen Mao, **Yuanzhe Hu**, Julian McAul
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Tech Report</div><img src='images/paper_main/K2-Think.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**[5] K2-Think: A Parameter-Efficient Reasoning System**
+**[5] ARFM: Adaptive Reinforced Filtering Method for Identifying Spurious Links in Noisy Social Networks**
 
-Zhoujun Cheng, Richard Fan, Shibo Hao, Taylor W. Killian, Haonan Li, Suqi Sun, Hector Ren, Alexander Moreno, Daqian Zhang, Tianjun Zhong, Yuxin Xiong, **Yuanzhe Hu**, Yutao Xie, Xudong Han, Yuqi Wang, Varad Pimpalkhute, Yonghao Zhuang, Aaryamonvikram Singh, Xuezhi Liang, Anze Xie, Jianshu She, Desai Fan, Chengqian Gao, Liqun Ma, Mikhail Yurochkin, John Maggs, Xuezhe Ma, Guowei He, Zhiting Hu, Zhengzhong Liu, Eric P. Xing
+Chuanqi Shi, Asif Ali Muhammad, **Peilin Tan**, Liang Xie, Yulong Wang, Ying Sha and Huan Wang
 
-**MBZUAI IFM / LLM 360 Tech Report**
+**Under Review**
 
-
-**Short Summary:** K2-Think is a parameter-efficient reasoning system based on a 32B model.
-
-
-[Paper](https://arxiv.org/abs/2509.07604) 
-
- <a href="https://huggingface.co/LLM360/K2-Think"><img src="https://img.shields.io/badge/Model-HuggingFace-FFD21E?logo=huggingface" alt="Model"></a> <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fhuggingface.co%2Fapi%2Fmodels%2FLLM360%2FK2-Think%3Fexpand%255B%255D%3DdownloadsAllTime&label=Total%20Downloads&query=%24.downloadsAllTime&color=orange&logo=huggingface&cacheSeconds=3600" alt="Model Downloads">  <a href="https://www.nytimes.com/2025/09/09/technology/uae-emirates-ai-open-source.html"><img src="https://img.shields.io/badge/Media-NY_Times-555555?logo=nytimes" alt="NY Times"></a> <a href="https://www.forbes.com/sites/patrickmoorhead/2025/09/09/the-uae-showcases-its-abilities-in-ai-reasoning-with-k2-think-model/"><img src="https://img.shields.io/badge/Media-Forbes-5DADE2?logo=forbes" alt="Forbes"></a> 
+**Short Summary:** HiRank, a hierarchical rank-oriented GNN framework that models multi-level ranking relations and integrates hierarchical message passing to improve accuracy, generalization, and interpretability in learning-to-rank tasks across various domains.
 
 </div>
 </div>
@@ -188,18 +138,27 @@ Zhoujun Cheng, Richard Fan, Shibo Hao, Taylor W. Killian, Haonan Li, Suqi Sun, H
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='images/paper_main/ICML2025_Mplus.jpg' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**[6] M+: Extending MemoryLLM with Scalable Long-Term Memory**
+**[6] Missing Directions in Directed Relation Learning? Equivalent Projection Alignment Makes It Possible**
 
-Yu Wang, Dmitry Krotov, **Yuanzhe Hu**, Yifan Gao, Wangchunshu Zhou, Julian McAuley, Dan Gutfreund, Rogerio Feris, Zexue He
+Chuanqi Shi, Muhammad Asif Ali, **Peilin Tan**, Huan Wang
 
-**ICML 2025**
+**Under Review**
 
 
-**Short Summary:** M+ enhances long-term information retention in LLMs by integrating a retriever-based long-term memory mechanism.
+**Short Summary:** DPL (Directional Projection Learner), a framework that recovers missing relation directions in partially observed directed graphs by aligning structural and directional representations through an equivalent projection mechanism.
 
-[Paper](https://arxiv.org/abs/2502.00592) \| [Review](https://openreview.net/forum?id=OcqbkROe8J&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICML.cc%2F2025%2FConference%2FAuthors%23your-submissions)) 
 
-<a href="https://huggingface.co/YuWangX/mplus-8b"><img src="https://img.shields.io/badge/Model-HuggingFace-FFD21E?logo=huggingface" alt="Model"></a> <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fhuggingface.co%2Fapi%2Fmodels%2FYuWangX%2Fmplus-8b%3Fexpand%255B%255D%3DdownloadsAllTime&label=Total%20Downloads&query=%24.downloadsAllTime&color=orange&logo=huggingface&cacheSeconds=3600" alt="Model Downloads">    <a href="https://github.com/wangyu-ustc/MemoryLLM"><img src="https://img.shields.io/github/stars/wangyu-ustc/MemoryLLM.svg" alt="Star Count"></a>    <a href="https://mp.weixin.qq.com/s/8fl3ymmJMn2P0_XBmVQQuw"><img src="https://img.shields.io/badge/Media-机器之心-1ABC9C?logo=wechat" alt="机器之心"></a>
+</div>
+</div>
+
+**[7] Missing Directions in Directed Relation Learning? Equivalent Projection Alignment Makes It Possible**
+
+Yechen Yu, Liang Xie, Jiankai Zheng, **Peilin Tan**
+
+**Under Review**
+
+
+**Short Summary:** LOSTFormer, a Linear Orthogonal Spatio-Temporal Transformer that introduces Learnable Orthogonal Rotation Attention to capture long-range spatio-temporal dependencies with linear complexity.
 
 
 </div>
@@ -207,11 +166,10 @@ Yu Wang, Dmitry Krotov, **Yuanzhe Hu**, Yifan Gao, Wangchunshu Zhou, Julian McAu
 
 
 # 🔥 News
-- *2025.09*: &nbsp;😁 Excited to share that our recent work "K2-Think: A Parameter-Efficient Reasoning System".
-- *2025.07*: &nbsp;😁 We open-sourced the [MemoryAgentBench](https://github.com/HUST-AI-HYZ/MemoryAgentBench). Thanks for the great help from [Yu Wang](https://yuwang.us)! 
-- *2025.05*: &nbsp;🎉🎉 Two papers are accepted by [ICML 2025](https://icml.cc/) as **Poster**! See you at Vancouver.
-- *2024.09*: &nbsp;🎉🎉 Excited to share that our work “Model Balancing Helps Low-data Training and Fine-tuning” is accepted by [EMNLP 2024](https://2024.emnlp.org) as **Oral Presentation**!
-- *2022.06*: &nbsp;😁 I graduated from WUT!
+- *2025.10*: &nbsp;😁 We open-sourced the [H3M-SSMoEs](https://github.com/PeilinTime/H3M-SSMoEs).
+- *2025.10*: &nbsp;😁 Excited to share that our recent work "H3M-SSMoEs: Hypergraph-based Multimodal Learning with LLM Reasoning and Style-Structured Mixture of Experts".
+- *2025.10*: &nbsp;😁 We open-sourced the [MaGNet](https://github.com/PeilinTime/MaGNet).
+- *2025.10*: &nbsp;😁 Excited to share that our work “MaGNet: A Mamba Dual-Hypergraph Network for Stock Prediction via Temporal-Causal and Global Relational Learning”.
 
 Last Update: 10/2025
 
