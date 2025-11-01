@@ -132,7 +132,7 @@ Chuanqi Shi, Asif Ali Muhammad, **Peilin Tan**, Liang Xie, Yulong Wang, Ying Sha
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/paper_main/DPL.pdf' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/paper_main/DPL.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **[5] Missing Directions in Directed Relation Learning? Equivalent Projection Alignment Makes It Possible**
