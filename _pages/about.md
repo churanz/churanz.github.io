@@ -111,7 +111,7 @@ Xin Xu, Xunzhi He#, **Churan Zhi#**, Ruizhe Chen, Julian McAuley, Zexue He
 
 **Short Summary:** Existing studies on bias mitigation methods for large language models (LLMs) use diverse baselines and metrics to evaluate debiasing performance, leading to inconsistent comparisons among them. Moreover, their evaluations are mostly based on the comparison between LLMs’ probabilities of biased and unbiased contexts, which ignores the gap between such evaluations and real-world use cases where users interact with LLMs by reading model responses and expect fair and safe outputs rather than LLMs’ probabilities. To enable consistent evaluation across debiasing methods and bridge this gap, we introduce BIASFREEBENCH, an empirical benchmark that comprehensively compares eight mainstream bias mitigation techniques (covering four prompting-based and four training-based methods) on two test scenarios (multi-choice QA and open-ended multi-turn QA) by reorganizing existing datasets into a unified query-response setting.
 
-[Paper](https://arxiv.org/pdf/2510.00232)
+[Paper](https://arxiv.org/abs/2510.00232)
   </div>
 </div>
 
@@ -131,7 +131,7 @@ Xin Xu, Xunzhi He#, **Churan Zhi#**, Ruizhe Chen, Julian McAuley, Zexue He
 
 **Short Summary:** In this paper, we address unsupervised domain adaptation under noisy environments, which is more challenging and practical than traditional domain adaptation. In this scenario, the model is prone to overfitting noisy labels, resulting in a more pronounced domain shift and a notable decline in the overall model performance. Previous methods employed prototype methods for domain adaptation on robust feature spaces. However, these approaches struggle to effectively classify classes with similar features under noisy environments. To address this issue, we propose a new method to detect and correct confusing class pair. We first divide classes into easy and hard classes based on the small loss criterion. We then leverage the top-2 predictions for each sample after aligning the source and target domain to find the confusing pair in the hard classes. We apply label correction to the noisy samples within the confusing pair. With the proposed label correction method, we can train our model with more accurate labels.
 
-[Paper](https://arxiv.org/pdf/2403.12883)
+[Paper](https://arxiv.org/abs/2403.12883)
   </div>
 </div>
 
@@ -174,20 +174,20 @@ Xin Xu, Xunzhi He#, **Churan Zhi#**, Ruizhe Chen, Julian McAuley, Zexue He
 <table>
   <tr>
     <td style="border: none; vertical-align: middle;">
-      <b>Chinese Academy of Sciences</b><br>
-      Research Assistant
-    </td>
-    <td style="text-align: right; border: none; vertical-align: middle; white-space: nowrap;">
-      <i>2022.02 - 2023.08</i>
-    </td>
-  </tr>
-  <tr>
-    <td style="border: none; vertical-align: middle;">
       <b>University of California, San Diego</b><br>
       Research Assistant
     </td>
     <td style="text-align: right; border: none; vertical-align: middle; white-space: nowrap;">
       <i>2024.09 - Present</i>
+    </td>
+  </tr>
+    <tr>
+    <td style="border: none; vertical-align: middle;">
+      <b>Chinese Academy of Sciences</b><br>
+      Research Assistant
+    </td>
+    <td style="text-align: right; border: none; vertical-align: middle; white-space: nowrap;">
+      <i>2022.02 - 2023.08</i>
     </td>
   </tr>
 </table>
