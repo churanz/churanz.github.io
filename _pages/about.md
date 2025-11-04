@@ -97,7 +97,7 @@ My current research interests lie primarily in Natural Language Processing and D
   </tr>
   <tr>
     <td style="border: none; vertical-align: middle;">
-      <b>University of California, San Diego (UCSD)</b><br>
+      <b>University of California, San Diego</b><br>
       Research Assistant
     </td>
     <td style="text-align: right; border: none; vertical-align: middle; white-space: nowrap;">
