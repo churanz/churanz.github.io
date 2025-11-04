@@ -99,7 +99,7 @@ I am also open to <span style="color: red;">**collaboration opportunities**</spa
 **Short Summary:** MaGNet, a Mamba dual-hypergraph network that integrates advanced temporal modeling with dual hypergraph relational learning to capture both causal and global market dependencies. 
 
 
-[Paper](https://arxiv.org/abs/2510.25091)
+[Paper](https://arxiv.org/abs/2511.00085)
 
 <a href="https://github.com/PeilinTime/MaGNet"><img src="https://img.shields.io/github/stars/PeilinTime/MaGNet.svg" alt="Star Count"></a>
 
