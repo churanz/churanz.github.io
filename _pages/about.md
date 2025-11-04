@@ -134,7 +134,10 @@ Xin Xu, Xunzhi He#, **Churan Zhi#**, Ruizhe Chen, Julian McAuley, Zexue He
 [Paper](https://arxiv.org/pdf/2403.12883)
   </div>
 </div>
-# 💼 Internships
+
+# 🧭 Experiences
+
+## 💼 Internships
 <table>
   <tr>
     <td style="border: none; vertical-align: middle;">
@@ -165,7 +168,9 @@ Xin Xu, Xunzhi He#, **Churan Zhi#**, Ruizhe Chen, Julian McAuley, Zexue He
   </tr>
 </table>
 
-# 🔬 Research Experience
+---
+
+## 🔬 Research Experience
 <table>
   <tr>
     <td style="border: none; vertical-align: middle;">
