@@ -19,18 +19,11 @@ redirect_from:
 
 # ℹ️ Short Bio
 
-Hi, I’m Peilin, a master’s student at the University of California, San Diego.
+Hi, I’m Churan, a master’s student at the University of California, San Diego.
 
-I have the great honor of being collaborating with Prof. [Liang Xie](https://scholar.google.com/citations?user=IQIak1wAAAAJ&hl=en&oi=ao).
+I have the great honor of being collaborating with Prof. [Junbao Zhuo](https://scholar.google.com/citations?user=iBt9uHUAAAAJ&hl=en), [Julian McAuley](https://cseweb.ucsd.edu/~jmcauley/).
 
-My current research interests lie primarily in:
-
-- Spatio-temporal and Relational Modeling for Financial Time Series Forecasting.
-- Multimodal Learning with Large Language Models (LLMs).
-
-I am actively seeking <span style="color: red;">**Fall 2026 Ph.D. positions in CS/ECE/DS**</span>, as well as <span style="color: red;">**Research Assistant opportunities**</span> after completing my M.S. (in about five months).
-
-I am also open to <span style="color: red;">**collaboration opportunities**</span>—please feel free to reach out!
+My current research interests lie primarily in Natural Language Processing and Deep Learning.
 
 # 📖 Educations
 <table>
@@ -40,141 +33,98 @@ I am also open to <span style="color: red;">**collaboration opportunities**</spa
     </td>
     <td style="border: none; vertical-align: middle;">
       <b>University of California, San Diego (UCSD)</b><br>
-      M.S. in Computer Science and Engineering
+      M.S. in Computer Science
     </td>
     <td style="text-align: right; border: none; vertical-align: middle; white-space: nowrap;">
-      <i>2024.09 - 2026.03 (Expected)</i>
+      <i>2024 - 2026</i>
     </td>
   </tr>
   <tr>
     <td style="width: 60px; border: none; padding: 10px 15px 10px 0;">
-      <img src="./images/wut_badge.png" width="80">
+      <img src="./images/bjtu_badge.png" width="80">
     </td>
     <td style="border: none; vertical-align: middle;">
-      <b>Wuhan University of Technology (WUT)</b><br>
+      <b>Beijing Jiaotong University</b><br>
       B.S. in Information and Computing Science (Mathematics)<br>
     </td>
     <td style="text-align: right; border: none; vertical-align: middle; white-space: nowrap;">
-      <i>2018.09 - 2022.06</i>
+      <i>2020 - 2024</i>
     </td>
   </tr>
 </table>
 
 
-# 📝 Writing Samples 
+# 📝 Publications 
 
-## Leading Authored
+##
 
 <span style="color: #5DADE2;"># denotes equal contribution</span>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under review at WWW 2026</div><img src='images/paper_main/overview of H3M-SSMoEs.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><img src='images/paper_main/densemixer.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**[1] H3M-SSMoEs: Hypergraph-based Multimodal Learning with LLM Reasoning and Style-Structured Mixture of Experts**
+**[1] DenseMixer: Improving MoE Post-Training with Precise Router Gradients**
 
-**Peilin Tan**, Liang Xie, {Churan Zhi#, Dian Tu#, Chuanqi Shi#}
+Feng Yao, Junxia Cui, Ruohan Zhang, Liyuan Liu, Shibo Hao, Li Zhang, Chengyu Dong, **Churan Zhi**, Shuohang Wang, yelong shen, Jianfeng Gao, Jingbo Shang
 
-**Under review at WWW 2026**
+**ICLR 2026**
+
+**Short Summary:** We introduce DenseMixer, a novel MoE post-training technique that trades one extra forward pass on inactive experts for a more precise router gradient estimation. Our method consistently outperforms conventional methods across different MoE scales (7B, 14B, 16B, 30B), architectures (with/without shared experts), pre-training methods (from scratch/up-cycling), and post-training data types (instruction/long CoT data). It is universally applicable to any MoE using Top-K routing and can be used in a plug-and-play manner, compatible with existing training libraries and parameter-efficient methods like LoRA, introducing no changes to inference.
+
+[Paper](https://fengyao.notion.site/moe-posttraining)
+
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><img src='images/paper_main/overview of H3M-SSMoEs.png' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**[2] H3M-SSMoEs: Hypergraph-based Multimodal Learning with LLM Reasoning and Style-Structured Mixture of Experts**
+
+Peilin Tan, Liang Xie, **Churan Zhi**, Dian Tu, Chuanqi Shi
+
+**WWW 2026**
 
 **Short Summary:** H3M-SSMoEs, a hypergraph-based multimodal framework combining LLM reasoning and style-structured experts for stock prediction. 
 
 [Paper](https://arxiv.org/abs/2510.25091)
 
-<a href="https://github.com/PeilinTime/H3M-SSMoEs"><img src="https://img.shields.io/github/stars/PeilinTime/H3M-SSMoEs.svg" alt="Star Count"></a>
 
 </div>
 </div>
 
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under review at WWW 2026</div><img src='images/paper_main/MaGNet Framework .png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><img src='images/paper_main/biasfreebench.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
+  
+**[3] BiasFreeBench: a Benchmark for Mitigating Bias in Large Language Model Responses**
 
-**[2] MaGNet: A Mamba Dual-Hypergraph Network for Stock Prediction via Temporal-Causal and Global Relational Learning**
+Xin Xu, Xunzhi He#, **Churan Zhi#**, Ruizhe Chen, Julian McAuley, Zexue He
 
-**Peilin Tan**, Chuanqi Shi, Dian Tu and Liang Xie
+**ICLR 2026**
 
-**Under review at WWW 2026**
+**Short Summary:** Existing studies on bias mitigation methods for large language models (LLMs) use diverse baselines and metrics to evaluate debiasing performance, leading to inconsistent comparisons among them. Moreover, their evaluations are mostly based on the comparison between LLMs’ probabilities of biased and unbiased contexts, which ignores the gap between such evaluations and real-world use cases where users interact with LLMs by reading model responses and expect fair and safe outputs rather than LLMs’ probabilities. To enable consistent evaluation across debiasing methods and bridge this gap, we introduce BIASFREEBENCH, an empirical benchmark that comprehensively compares eight mainstream bias mitigation techniques (covering four prompting-based and four training-based methods) on two test scenarios (multi-choice QA and open-ended multi-turn QA) by reorganizing existing datasets into a unified query-response setting.
 
-**Short Summary:** MaGNet, a Mamba dual-hypergraph network that integrates advanced temporal modeling with dual hypergraph relational learning to capture both causal and global market dependencies. 
-
-
-[Paper](https://arxiv.org/abs/2511.00085)
-
-<a href="https://github.com/PeilinTime/MaGNet"><img src="https://img.shields.io/github/stars/PeilinTime/MaGNet.svg" alt="Star Count"></a>
-
+[Paper](https://arxiv.org/pdf/2510.00232)
 
 </div>
 </div>
 
-## Contributed
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under review at WWW 2026</div><img src='images/paper_main/Contend-LP.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><img src='images/paper_main/cpc.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
+  
+**[4] Confusing Pair Correction Based on Category Prototype for Domain Adaptation under Noisy Environments**
 
-**[3] Contend-LP:Conflict-Resilient Directed Graph Embeddings for Link Prediction**
+**Churan Zhi**, Junbao Zhuo, Shuhui Wang
 
-Chuanqi Shi, Asif Ali Muhammad, **Peilin Tan**, Liang Xie, Yulong Wang, Ying Sha and Huan Wang
+**AAAI 2024**
 
-**Under review at WWW 2026**
+**Short Summary:** In this paper, we address unsupervised domain adaptation under noisy environments, which is more challenging and practical than traditional domain adaptation. In this scenario, the model is prone to overfitting noisy labels, resulting in a more pronounced domain shift and a notable decline in the overall model performance. Previous methods employed prototype methods for domain adaptation on robust feature spaces. However, these approaches struggle to effectively classify classes with similar features under noisy environments. To address this issue, we propose a new method to detect and correct confusing class pair. We first divide classes into easy and hard classes based on the small loss criterion. We then leverage the top-2 predictions for each sample after aligning the source and target domain to find the confusing pair in the hard classes. We apply label correction to the noisy samples within the confusing pair. With the proposed label correction method, we can train our model with more accurate labels. 
 
-**Short Summary:** Contend-LP, a conflict-resilient framework for directed link prediction that disentangles node-level invariant representations and edge-level asymmetric modeling through adversarial alignment.
-
-</div>
-</div>
-
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under review at WWW 2026</div><img src='images/paper_main/ARFM.png' alt="sym" width="80%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**[4] ARFM: Adaptive Reinforced Filtering Method for Identifying Spurious Links in Noisy Social Networks**
-
-Chuanqi Shi, Asif Ali Muhammad, **Peilin Tan**, Liang Xie, Yulong Wang, Ying Sha and Huan Wang
-
-**Under review at WWW 2026**
-
-**Short Summary:** ARFM, an Adaptive Reinforced Filtering Method that combines pseudo-labeling, reinforcement learning, and dynamic reward filtering to identify and remove spurious links in noisy social networks.
-
-</div>
-</div>
-
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under review at AAAI 2026</div><img src='images/paper_main/DPL.png' alt="sym" width="80%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**[5] Missing Directions in Directed Relation Learning? Equivalent Projection Alignment Makes It Possible**
-
-Chuanqi Shi, Muhammad Asif Ali, **Peilin Tan**, Huan Wang
-
-**Under review at AAAI 2026**
-
-
-**Short Summary:** DPL (Directional Projection Learner), a framework that recovers missing relation directions in partially observed directed graphs by aligning structural and directional representations through an equivalent projection mechanism.
-
-
-</div>
-</div>
-
-**[6] LOSTFormer: Linear Orthogonal Spatio-Temporal Transformer with Learnable Rotation**
-
-Yechen Yu, Liang Xie, Jiankai Zheng, **Peilin Tan**
-
-**Under review at DASFAA 2026**
-
-
-**Short Summary:** LOSTFormer, a Linear Orthogonal Spatio-Temporal Transformer that introduces Learnable Orthogonal Rotation Attention to capture long-range spatio-temporal dependencies with linear complexity.
-
-
-
-
+[Paper](https://arxiv.org/pdf/2403.12883)
 
 # 🔥 News
 - *2025.10*: &nbsp;😁 We open-sourced the [H3M-SSMoEs](https://github.com/PeilinTime/H3M-SSMoEs).
-- *2025.10*: &nbsp;😁 Excited to share our recent work "H3M-SSMoEs: Hypergraph-based Multimodal Learning with LLM Reasoning and Style-Structured Mixture of Experts".
-- *2025.08*: &nbsp;😁 We open-sourced the [MaGNet](https://github.com/PeilinTime/MaGNet).
-- *2025.08*: &nbsp;😁 Excited to share our work “MaGNet: A Mamba Dual-Hypergraph Network for Stock Prediction via Temporal-Causal and Global Relational Learning”.
 
-Last Update: 10/2025
+Last Update: 11/2025
 
