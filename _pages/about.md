@@ -55,7 +55,7 @@ My current research interests lie primarily in Natural Language Processing and D
 
 
 # 📝 Publications 
-
+## A
 <div class='paper-box'><div class='paper-box-image'><img src='images/paper_main/densemixer.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
