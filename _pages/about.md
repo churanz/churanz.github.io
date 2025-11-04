@@ -53,6 +53,58 @@ My current research interests lie primarily in Natural Language Processing and D
   </tr>
 </table>
 
+# 💼 Internships
+<table>
+  <tr>
+    <td style="border: none; vertical-align: middle;">
+      <b>Amazon</b><br>
+      Software Engineer - Store: Tax Engine
+    </td>
+    <td style="text-align: right; border: none; vertical-align: middle; white-space: nowrap;">
+      <i>2025.06 - 2025.09</i>
+    </td>
+  </tr>
+  <tr>
+    <td style="border: none; vertical-align: middle;">
+      <b>Microsoft</b><br>
+      Software Engineer (AI/ML) - WebXT: Search & Distribution
+    </td>
+    <td style="text-align: right; border: none; vertical-align: middle; white-space: nowrap;">
+      <i>2024.05 - 2024.07</i>
+    </td>
+  </tr>
+  <tr>
+    <td style="border: none; vertical-align: middle;">
+      <b>Xiaomi</b><br>
+      Machine Learning Engineer
+    </td>
+    <td style="text-align: right; border: none; vertical-align: middle; white-space: nowrap;">
+      <i>2024.02 - 2024.04</i>
+    </td>
+  </tr>
+</table>
+
+# 🔬 Research Experience
+<table>
+  <tr>
+    <td style="border: none; vertical-align: middle;">
+      <b>Chinese Academy of Sciences</b><br>
+      Research Assistant
+    </td>
+    <td style="text-align: right; border: none; vertical-align: middle; white-space: nowrap;">
+      <i>2022.02 - 2023.08</i>
+    </td>
+  </tr>
+  <tr>
+    <td style="border: none; vertical-align: middle;">
+      <b>University of California, San Diego (UCSD)</b><br>
+      Research Assistant
+    </td>
+    <td style="text-align: right; border: none; vertical-align: middle; white-space: nowrap;">
+      <i>2024.09 - Present</i>
+    </td>
+  </tr>
+</table>
 
 # 📝 Publications 
 
