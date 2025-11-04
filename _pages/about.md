@@ -56,9 +56,6 @@ My current research interests lie primarily in Natural Language Processing and D
 
 # 📝 Publications 
 
-
-<span style="color: #5DADE2;"># denotes equal contribution</span>
-
 <div class='paper-box'><div class='paper-box-image'><img src='images/paper_main/densemixer.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -73,7 +70,6 @@ Feng Yao, Junxia Cui, Ruohan Zhang, Liyuan Liu, Shibo Hao, Li Zhang, Chengyu Don
 [Paper](https://fengyao.notion.site/moe-posttraining)
 
 
-</div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><img src='images/paper_main/overview of H3M-SSMoEs.png' alt="sym" width="80%"></div></div>
@@ -91,7 +87,6 @@ Peilin Tan, Liang Xie, **Churan Zhi**, Dian Tu, Chuanqi Shi
 
 
 </div>
-</div>
 
 <div class='paper-box'><div class='paper-box-image'><img src='images/paper_main/biasfreebench.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -106,7 +101,6 @@ Xin Xu, Xunzhi He#, **Churan Zhi#**, Ruizhe Chen, Julian McAuley, Zexue He
 
 [Paper](https://arxiv.org/pdf/2510.00232)
 
-</div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><img src='images/paper_main/cpc.png' alt="sym" width="80%"></div></div>
