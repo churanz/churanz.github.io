@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Churan Zhi"
 description              : ""
-repository               : "hehxcf/churanz.github.io"
+repository               : "churanz/churanz.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Churan Zhi "
-  avatar           : "/images/zcr_profile.jpg"
+  avatar           : "/images/zcr_pic.jpg"
   bio              : "Master’s Student @ UCSD, CSE"
   location         : "La Jolla, CA, USA"
   employer         :
@@ -38,7 +38,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "hehxcf"
+  github           : "churanz"
   google_plus      :
   keybase          :
   instagram        :
