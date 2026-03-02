@@ -59,15 +59,35 @@ My current research interests lie primarily in Natural Language Processing and D
 
 <div class='paper-box'>
   <div class='paper-box-image'>
+    <img src='images/paper_main/memoryarena.png' alt="sym" width="80%">
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+**[1] MemoryArena: Benchmarking Agent Memory in Interdependent Multi-Session Agentic Tasks**
+
+Zexue He#, Yu Wang#, **Churan Zhi#**, Yuanzhe Hu#, Tzu-Ping Chen#, Lang Yin#, Ze Chen, Tong Arthur Wu, Siru Ouyang, Zihan Wang, Jiaxin Pei, Julian McAuley, Yejin Choi, Alex Pentland  
+
+**ICML 2026**
+
+**Short Summary:** Existing evaluations of agents with memory typically assess memorization and action in isolation. One class of benchmarks evaluates memorization by testing recall of past conversations or text but fails to capture how memory is used to guide future decisions. Another class focuses on agents acting in single-session tasks without the need for long-term memory. However, in realistic settings, memorization and action are tightly coupled: agents acquire memory while interacting with the environment, and subsequently rely on that memory to solve future tasks. To capture this setting, we introduce MemoryArena, a unified evaluation gym for benchmarking agent memory in multi-session Memory-Agent-Environment loops. The benchmark consists of human-crafted agentic tasks with explicitly interdependent subtasks, where agents must learn from earlier actions and feedback by distilling experiences into memory, and subsequently use that memory to guide later actions to solve the overall task. MemoryArena supports evaluation across web navigation, preference-constrained planning, progressive information search, and sequential formal reasoning, and reveals that agents with near-saturated performance on existing long-context memory benchmarks like LoCoMo perform poorly in our agentic setting, exposing a gap in current evaluations for agents with memory.
+
+[Paper](https://arxiv.org/abs/2602.16313)
+  </div>
+</div>
+
+---
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
     <img src='images/paper_main/densemixer.png' alt="sym" width="80%">
   </div>
   <div class='paper-box-text' markdown="1">
 
-**[1] DenseMixer: Improving MoE Post-Training with Precise Router Gradients**
+**[2] DenseMixer: Improving MoE Post-Training with Precise Router Gradients**
 
 Feng Yao, Junxia Cui, Ruohan Zhang, Liyuan Liu, Shibo Hao, Li Zhang, Chengyu Dong, **Churan Zhi**, Shuohang Wang, Yelong Shen, Jianfeng Gao, Jingbo Shang  
 
-**ICLR 2026**
+**ICML 2026**
 
 **Short Summary:** We introduce DenseMixer, a novel MoE post-training technique that trades one extra forward pass on inactive experts for a more precise router gradient estimation. Our method consistently outperforms conventional methods across different MoE scales (7B, 14B, 16B, 30B), architectures (with/without shared experts), pre-training methods (from scratch/up-cycling), and post-training data types (instruction/long CoT data). It is universally applicable to any MoE using Top-K routing and can be used in a plug-and-play manner, compatible with existing training libraries and parameter-efficient methods like LoRA, introducing no changes to inference.
 
@@ -83,11 +103,11 @@ Feng Yao, Junxia Cui, Ruohan Zhang, Liyuan Liu, Shibo Hao, Li Zhang, Chengyu Don
   </div>
   <div class='paper-box-text' markdown="1">
 
-**[2] H3M-SSMoEs: Hypergraph-based Multimodal Learning with LLM Reasoning and Style-Structured Mixture of Experts**
+**[3] H3M-SSMoEs: Hypergraph-based Multimodal Learning with LLM Reasoning and Style-Structured Mixture of Experts**
 
 Peilin Tan, Liang Xie, **Churan Zhi**, Dian Tu, Chuanqi Shi  
 
-**WWW 2026**
+**SIGKDD 2026**
 
 **Short Summary:** Stock movement prediction remains fundamentally challenging due to complex temporal dependencies, heterogeneous modalities, and dynamically evolving inter-stock relationships. Existing approaches often fail to unify structural, semantic, and regime-adaptive modeling within a scalable framework. This work introduces H3M-SSMoEs, a novel Hypergraph-based MultiModal architecture with LLM reasoning and Style-Structured Mixture of Experts, integrating three key innovations: (1) a Multi-Context Multimodal Hypergraph that hierarchically captures fine-grained spatiotemporal dynamics via a Local Context Hypergraph (LCH) and persistent inter-stock dependencies through a Global Context Hypergraph (GCH), employing shared cross-modal hyperedges and Jensen-Shannon Divergence weighting mechanism for adaptive relational learning and cross-modal alignment; (2) a LLM-enhanced reasoning module, which leverages a frozen large language model with lightweight adapters to semantically fuse and align quantitative and textual modalities, enriching representations with domain-specific financial knowledge; and (3) a Style-Structured Mixture of Experts (SSMoEs) that combines shared market experts and industry-specialized experts, each parameterized by learnable style vectors enabling regime-aware specialization under sparse activation. Extensive experiments on three major stock markets demonstrate that H3M-SSMoEs surpasses state-of-the-art methods in both superior predictive accuracy and investment performance, while exhibiting effective risk control. 
 
@@ -103,7 +123,7 @@ Peilin Tan, Liang Xie, **Churan Zhi**, Dian Tu, Chuanqi Shi
   </div>
   <div class='paper-box-text' markdown="1">
 
-**[3] BiasFreeBench: a Benchmark for Mitigating Bias in Large Language Model Responses**
+**[4] BiasFreeBench: a Benchmark for Mitigating Bias in Large Language Model Responses**
 
 Xin Xu, Xunzhi He#, **Churan Zhi#**, Ruizhe Chen, Julian McAuley, Zexue He  
 
@@ -123,7 +143,7 @@ Xin Xu, Xunzhi He#, **Churan Zhi#**, Ruizhe Chen, Julian McAuley, Zexue He
   </div>
   <div class='paper-box-text' markdown="1">
 
-**[4] Confusing Pair Correction Based on Category Prototype for Domain Adaptation under Noisy Environments**
+**[5] Confusing Pair Correction Based on Category Prototype for Domain Adaptation under Noisy Environments**
 
 **Churan Zhi**, Junbao Zhuo, Shuhui Wang  
 
@@ -134,42 +154,6 @@ Xin Xu, Xunzhi He#, **Churan Zhi#**, Ruizhe Chen, Julian McAuley, Zexue He
 [Paper](https://arxiv.org/abs/2403.12883)
   </div>
 </div>
-
-# 🧭 Experiences
-
-## 💼 Internships
-<table>
-  <tr>
-    <td style="border: none; vertical-align: middle;">
-      <b>Amazon</b><br>
-      Software Engineer - Store: Tax Engine
-    </td>
-    <td style="text-align: right; border: none; vertical-align: middle; white-space: nowrap;">
-      <i>2025.06 - 2025.09</i>
-    </td>
-  </tr>
-  <tr>
-    <td style="border: none; vertical-align: middle;">
-      <b>Microsoft</b><br>
-      Software Engineer (AI/ML) - WebXT: Search & Distribution
-    </td>
-    <td style="text-align: right; border: none; vertical-align: middle; white-space: nowrap;">
-      <i>2024.05 - 2024.07</i>
-    </td>
-  </tr>
-  <tr>
-    <td style="border: none; vertical-align: middle;">
-      <b>Xiaomi</b><br>
-      Machine Learning Engineer
-    </td>
-    <td style="text-align: right; border: none; vertical-align: middle; white-space: nowrap;">
-      <i>2024.02 - 2024.04</i>
-    </td>
-  </tr>
-</table>
-
----
-
 ## 🔬 Research Experience
 <table>
   <tr>
@@ -191,6 +175,8 @@ Xin Xu, Xunzhi He#, **Churan Zhi#**, Ruizhe Chen, Julian McAuley, Zexue He
     </td>
   </tr>
 </table>
+
+---
 
 # 🔥 News
 - *2025.10*: &nbsp;😁 We open-sourced the [H3M-SSMoEs](https://github.com/PeilinTime/H3M-SSMoEs).
