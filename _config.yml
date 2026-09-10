@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Churan Zhi"
-description              : ""
+description              : "Software Engineer at Google working on Gemini in Chrome, agentic browsing, and browser-agent infrastructure."
 repository               : "churanz/churanz.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,15 +21,15 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Churan Zhi "
+  name             : "Churan Zhi"
   avatar           : "/images/zcr_pic.jpg"
-  bio              : "Master’s Student @ UCSD, CSE"
-  location         : "La Jolla, CA, USA"
+  bio              : "Software Engineer @ Google · Gemini in Chrome"
+  location         : "Mountain View, CA, USA"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=vCVj95IAAAAJ&hl=en"
   # semanticscholar  : ""
-  email            : "chzhi@ucsd.edu"
+  email            : "crleozhi@gmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -44,7 +44,7 @@ author:
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : https://www.linkedin.com/in/churan-zhi/
+  linkedin         : "churan-zhi"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
@@ -163,6 +163,4 @@ compress_html:
   clippings: all
   ignore:
     envs: development
-
-
 

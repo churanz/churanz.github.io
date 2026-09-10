@@ -1,29 +1,12 @@
-# main links links
 main:
-  - title: "About Me"
+  - title: "About"
     url: "/#about-me"
 
-  - title: "Educations"
-    url: "/#-educations"
-    
   - title: "Publications"
-    url: "/#-publications"
+    url: "/#publications"
   
-  - title: "Experiences"
-    url: "/#-experiences"
+  - title: "Experience"
+    url: "/#experience"
 
-  - title: "News"
-    url: "/#-news"
-
-
-  
-  # - title: "Blog"
-  #   url: "/blog/"
-
-  # - title: "Honors and Awards"
-  #   url: "/#-honors-and-awards"
-
-  # - title: "Invited Talks"
-  #   url: "/#-invited-talks"
-
-
+  - title: "Service"
+    url: "/#service"

@@ -1,184 +1,210 @@
 ---
 permalink: /
 title: ""
-excerpt: ""
-author_profile: true
-redirect_from: 
+excerpt: "Churan Zhi — Software Engineer working on agentic browsing at Google."
+author_profile: false
+redirect_from:
   - /about/
   - /about.html
 ---
 
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
+<div class="home-shell">
+  <section class="hero" id="about-me" aria-labelledby="hero-title">
+    <div class="hero__content">
+      <p class="eyebrow"><span class="eyebrow__dot" aria-hidden="true"></span> Software Engineer · Mountain View, CA</p>
+      <h1 id="hero-title">Churan <em>Zhi</em></h1>
+      <p class="hero__role">Gemini in Chrome · Agentic Browsing</p>
+      <p class="hero__intro">
+        I’m a Software Engineer on the <strong>Gemini in Chrome</strong> team at Google,
+        where I work on agentic browsing and the infrastructure that powers browser agents.
+      </p>
 
-<span class='anchor' id='about-me'></span>
+      <div class="contact-block">
+        <p class="contact-label">Reach out</p>
+        <div class="contact-row" aria-label="Ways to reach Churan Zhi">
+          <a class="contact-link" href="mailto:crleozhi@gmail.com" aria-label="Email Churan Zhi" title="Email">
+            <i class="fas fa-envelope" aria-hidden="true"></i>
+          </a>
+          <a class="contact-link" href="https://www.linkedin.com/in/churan-zhi/" target="_blank" rel="noopener noreferrer" aria-label="Churan Zhi on LinkedIn" title="LinkedIn">
+            <i class="fab fa-linkedin-in" aria-hidden="true"></i>
+          </a>
+          <a class="contact-link" href="https://github.com/churanz" target="_blank" rel="noopener noreferrer" aria-label="Churan Zhi on GitHub" title="GitHub">
+            <i class="fab fa-github" aria-hidden="true"></i>
+          </a>
+          <a class="contact-link" href="https://scholar.google.com/citations?user=vCVj95IAAAAJ&amp;hl=en" target="_blank" rel="noopener noreferrer" aria-label="Churan Zhi on Google Scholar" title="Google Scholar">
+            <i class="fas fa-graduation-cap" aria-hidden="true"></i>
+          </a>
+        </div>
+      </div>
+    </div>
+    <figure class="hero__portrait">
+      <div class="hero__portrait-frame">
+        <img src="/images/zcr_pic.jpg" alt="Portrait of Churan Zhi" />
+      </div>
+      <figcaption>Google · Gemini in Chrome</figcaption>
+    </figure>
+    <div class="hero__wash hero__wash--one" aria-hidden="true"></div>
+    <div class="hero__wash hero__wash--two" aria-hidden="true"></div>
+  </section>
 
-# ℹ️ Short Bio
+  <section class="content-section" id="publications" aria-labelledby="publications-title">
+    <header class="section-heading">
+      <p class="section-kicker">Selected work</p>
+      <h2 id="publications-title">Publications</h2>
+    </header>
 
-Hi, I’m Churan, a master’s student at the University of California, San Diego.
+    <div class="publication-list">
+      <article class="publication-card">
+        <div class="publication-number" aria-hidden="true">01</div>
+        <div class="publication-content">
+          <h3><a href="https://arxiv.org/abs/2602.16313" target="_blank" rel="noopener noreferrer">MemoryArena: Benchmarking Agent Memory in Interdependent Multi-Session Agentic Tasks</a></h3>
+          <p class="publication-authors">Zexue He<sup>#</sup>, Yu Wang<sup>#</sup>, <strong>Churan Zhi<sup>#</sup></strong>, Yuanzhe Hu<sup>#</sup>, Tzu-Ping Chen<sup>#</sup>, Lang Yin<sup>#</sup>, Ze Chen, Tong Arthur Wu, Siru Ouyang, Zihan Wang, Jiaxin Pei, Julian McAuley, Yejin Choi, Alex Pentland</p>
+          <div class="publication-footer"><span class="venue venue--lavender">ICML 2026</span><a href="https://arxiv.org/abs/2602.16313" target="_blank" rel="noopener noreferrer">Paper <span aria-hidden="true">↗</span></a></div>
+        </div>
+      </article>
 
-I have the great honor of being collaborating with Prof. [Junbao Zhuo](https://scholar.google.com/citations?user=iBt9uHUAAAAJ&hl=en), [Julian McAuley](https://cseweb.ucsd.edu/~jmcauley/).
+      <article class="publication-card">
+        <div class="publication-number" aria-hidden="true">02</div>
+        <div class="publication-content">
+          <h3><a href="https://fengyao.notion.site/moe-posttraining" target="_blank" rel="noopener noreferrer">DenseMixer: Improving MoE Post-Training with Precise Router Gradients</a></h3>
+          <p class="publication-authors">Feng Yao, Junxia Cui, Ruohan Zhang, Liyuan Liu, Shibo Hao, Li Zhang, Chengyu Dong, <strong>Churan Zhi</strong>, Shuohang Wang, Yelong Shen, Jianfeng Gao, Jingbo Shang</p>
+          <div class="publication-footer"><span class="venue venue--mint">EMNLP 2026</span><a href="https://fengyao.notion.site/moe-posttraining" target="_blank" rel="noopener noreferrer">Paper <span aria-hidden="true">↗</span></a></div>
+        </div>
+      </article>
 
-My current research interests lie primarily in Natural Language Processing and Deep Learning.
+      <article class="publication-card">
+        <div class="publication-number" aria-hidden="true">03</div>
+        <div class="publication-content">
+          <h3><a href="https://arxiv.org/abs/2510.25091" target="_blank" rel="noopener noreferrer">H3M-SSMoEs: Hypergraph-based Multimodal Learning with LLM Reasoning and Style-Structured Mixture of Experts</a></h3>
+          <p class="publication-authors">Peilin Tan, Liang Xie, <strong>Churan Zhi</strong>, Dian Tu, Chuanqi Shi</p>
+          <div class="publication-footer"><span class="venue venue--peach">AAAI 2027</span><a href="https://arxiv.org/abs/2510.25091" target="_blank" rel="noopener noreferrer">Paper <span aria-hidden="true">↗</span></a></div>
+        </div>
+      </article>
 
-# 📖 Educations
-<table>
-  <tr>
-    <td style="width: 60px; border: none; padding: 10px 15px 10px 0;">
-      <img src="./images/ucsd_badge.png" width="80">
-    </td>
-    <td style="border: none; vertical-align: middle;">
-      <b>University of California, San Diego</b><br>
-      M.S. in Computer Science
-    </td>
-    <td style="text-align: right; border: none; vertical-align: middle; white-space: nowrap;">
-      <i>2024 - 2026</i>
-    </td>
-  </tr>
-  <tr>
-    <td style="width: 60px; border: none; padding: 10px 15px 10px 0;">
-      <img src="./images/bjtu_badge.png" width="80">
-    </td>
-    <td style="border: none; vertical-align: middle;">
-      <b>Beijing Jiaotong University</b><br>
-      B.S. in Computing Science<br>
-    </td>
-    <td style="text-align: right; border: none; vertical-align: middle; white-space: nowrap;">
-      <i>2020 - 2024</i>
-    </td>
-  </tr>
-</table>
+      <article class="publication-card">
+        <div class="publication-number" aria-hidden="true">04</div>
+        <div class="publication-content">
+          <h3><a href="https://arxiv.org/abs/2510.00232" target="_blank" rel="noopener noreferrer">BiasFreeBench: A Benchmark for Mitigating Bias in Large Language Model Responses</a></h3>
+          <p class="publication-authors">Xin Xu, Xunzhi He<sup>#</sup>, <strong>Churan Zhi<sup>#</sup></strong>, Ruizhe Chen, Julian McAuley, Zexue He</p>
+          <div class="publication-footer"><span class="venue venue--blue">ICLR 2026</span><a href="https://arxiv.org/abs/2510.00232" target="_blank" rel="noopener noreferrer">Paper <span aria-hidden="true">↗</span></a></div>
+        </div>
+      </article>
 
+      <article class="publication-card">
+        <div class="publication-number" aria-hidden="true">05</div>
+        <div class="publication-content">
+          <h3><a href="https://arxiv.org/abs/2403.12883" target="_blank" rel="noopener noreferrer">Confusing Pair Correction Based on Category Prototype for Domain Adaptation under Noisy Environments</a></h3>
+          <p class="publication-authors"><strong>Churan Zhi</strong>, Junbao Zhuo, Shuhui Wang</p>
+          <div class="publication-footer"><span class="venue venue--lavender">AAAI 2024</span><a href="https://arxiv.org/abs/2403.12883" target="_blank" rel="noopener noreferrer">Paper <span aria-hidden="true">↗</span></a></div>
+        </div>
+      </article>
 
+      <article class="publication-card" id="mixweaver">
+        <div class="publication-number" aria-hidden="true">06</div>
+        <div class="publication-content">
+          <h3>MixWeaver: Stem-aware Automatic DJ Transition Generation via Structured Discrete Optimization</h3>
+          <p class="publication-authors">Xuran Zhou, Xunyi Jiang, <strong>Churan Zhi</strong>, Junda Wu, Julian McAuley</p>
+          <div class="publication-footer"><span class="venue venue--mint">ISMIR 2026</span><a class="publication-link--placeholder" href="#mixweaver" aria-disabled="true" title="Paper link coming soon">Paper <span aria-hidden="true">↗</span></a></div>
+        </div>
+      </article>
+    </div>
+    <p class="contribution-note"><sup>#</sup> Equal contribution.</p>
+  </section>
 
-# 📝 Publications 
+  <section class="content-section" id="experience" aria-labelledby="experience-title">
+    <header class="section-heading">
+      <p class="section-kicker">Where I’ve worked</p>
+      <h2 id="experience-title">Experience</h2>
+    </header>
 
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <img src='images/paper_main/memoryarena.png' alt="sym" width="80%">
-  </div>
-  <div class='paper-box-text' markdown="1">
+    <div class="experience-list">
+      <article class="experience-card">
+        <p class="experience-date">Apr 2026 — Present</p>
+        <div class="org-mark org-mark--google" aria-hidden="true"><img src="/images/org-logos/google.svg" alt="" loading="lazy" /></div>
+        <div class="experience-content">
+          <h3>Software Engineer</h3>
+          <p class="experience-org">Google · Full-time</p>
+          <p class="experience-location">Mountain View, California · On-site</p>
+          <p class="experience-focus">Gemini in Chrome — Agentic Browsing &amp; Infrastructure</p>
+          <div class="tag-list"><span>AI Agents</span><span>Browser Agents</span><span>Infrastructure</span></div>
+        </div>
+      </article>
 
-**[1] MemoryArena: Benchmarking Agent Memory in Interdependent Multi-Session Agentic Tasks**
+      <article class="experience-card">
+        <p class="experience-date">Nov 2024 — Mar 2026</p>
+        <div class="org-mark org-mark--ucsd" aria-hidden="true"><img src="/images/ucsd_badge.png" alt="" loading="lazy" /></div>
+        <div class="experience-content">
+          <h3>Research Assistant</h3>
+          <p class="experience-org">UC San Diego · Computer Science &amp; Engineering</p>
+          <p class="experience-location">San Diego, California · On-site</p>
+          <p class="experience-focus">Trustworthy AI and AI Agent Memory</p>
+          <div class="tag-list"><span>Agent Memory</span><span>Trustworthy AI</span><span>Research</span></div>
+        </div>
+      </article>
 
-Zexue He#, Yu Wang#, **Churan Zhi#**, Yuanzhe Hu#, Tzu-Ping Chen#, Lang Yin#, Ze Chen, Tong Arthur Wu, Siru Ouyang, Zihan Wang, Jiaxin Pei, Julian McAuley, Yejin Choi, Alex Pentland  
+      <article class="experience-card">
+        <p class="experience-date">Jun 2025 — Sep 2025</p>
+        <div class="org-mark org-mark--amazon" aria-hidden="true"><img src="/images/org-logos/amazon.svg" alt="" loading="lazy" /></div>
+        <div class="experience-content">
+          <h3>Software Engineer Intern</h3>
+          <p class="experience-org">Amazon</p>
+          <p class="experience-location">Seattle, Washington · On-site</p>
+          <p class="experience-focus">Store — Tax Engine</p>
+          <div class="tag-list"><span>AI Agents</span><span>Infrastructure</span></div>
+        </div>
+      </article>
 
-**ICML 2026**
+      <article class="experience-card">
+        <p class="experience-date">May 2024 — Jul 2024</p>
+        <div class="org-mark org-mark--microsoft" aria-hidden="true"><img src="/images/org-logos/microsoft.svg" alt="" loading="lazy" /></div>
+        <div class="experience-content">
+          <h3>Software Engineer Intern</h3>
+          <p class="experience-org">Microsoft</p>
+          <p class="experience-location">Beijing, China · On-site</p>
+          <p class="experience-focus">Bing — Search &amp; Distribution</p>
+          <div class="tag-list"><span>Recommender Systems</span><span>Post-training</span></div>
+        </div>
+      </article>
 
-**Short Summary:** Existing evaluations of agents with memory typically assess memorization and action in isolation. One class of benchmarks evaluates memorization by testing recall of past conversations or text but fails to capture how memory is used to guide future decisions. Another class focuses on agents acting in single-session tasks without the need for long-term memory. However, in realistic settings, memorization and action are tightly coupled: agents acquire memory while interacting with the environment, and subsequently rely on that memory to solve future tasks. To capture this setting, we introduce MemoryArena, a unified evaluation gym for benchmarking agent memory in multi-session Memory-Agent-Environment loops. The benchmark consists of human-crafted agentic tasks with explicitly interdependent subtasks, where agents must learn from earlier actions and feedback by distilling experiences into memory, and subsequently use that memory to guide later actions to solve the overall task. MemoryArena supports evaluation across web navigation, preference-constrained planning, progressive information search, and sequential formal reasoning, and reveals that agents with near-saturated performance on existing long-context memory benchmarks like LoCoMo perform poorly in our agentic setting, exposing a gap in current evaluations for agents with memory.
+      <article class="experience-card">
+        <p class="experience-date">Feb 2024 — Apr 2024</p>
+        <div class="org-mark org-mark--xiaomi" aria-hidden="true"><img src="/images/org-logos/xiaomi.svg" alt="" loading="lazy" /></div>
+        <div class="experience-content">
+          <h3>Machine Learning Engineer Intern</h3>
+          <p class="experience-org">Xiaomi</p>
+          <p class="experience-location">Beijing, China · On-site</p>
+          <p class="experience-focus">In-car Conversational AI Agents</p>
+          <div class="tag-list"><span>Post-training</span><span>AI Agents</span></div>
+        </div>
+      </article>
 
-[Paper](https://arxiv.org/abs/2602.16313)
-  </div>
+      <article class="experience-card">
+        <p class="experience-date">Feb 2022 — Aug 2023</p>
+        <div class="org-mark org-mark--cas" aria-hidden="true"><img src="/images/org-logos/cas.jpg" alt="" loading="lazy" /></div>
+        <div class="experience-content">
+          <h3>Research Assistant Intern</h3>
+          <p class="experience-org">Institute of Computing Technology, Chinese Academy of Sciences</p>
+          <p class="experience-location">Beijing, China · On-site</p>
+          <p class="experience-focus">Visual Information Processing and Learning (VIPL) Research Group</p>
+          <div class="tag-list"><span>Transfer Learning</span><span>Domain Adaptation</span></div>
+        </div>
+      </article>
+    </div>
+  </section>
+
+  <section class="content-section content-section--last" id="service" aria-labelledby="service-title">
+    <header class="section-heading">
+      <p class="section-kicker">Academic service</p>
+      <h2 id="service-title">Service</h2>
+    </header>
+
+    <article class="teaching-card">
+      <div class="teaching-card__accent" aria-hidden="true"></div>
+      <div>
+        <p class="teaching-card__date">Mar 2025 — Jun 2025</p>
+        <h3>CSE 153/253: Machine Learning for Music</h3>
+        <p>Teaching Assistant · UC San Diego</p>
+      </div>
+    </article>
+  </section>
 </div>
-
----
-
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <img src='images/paper_main/densemixer.png' alt="sym" width="80%">
-  </div>
-  <div class='paper-box-text' markdown="1">
-
-**[2] DenseMixer: Improving MoE Post-Training with Precise Router Gradients**
-
-Feng Yao, Junxia Cui, Ruohan Zhang, Liyuan Liu, Shibo Hao, Li Zhang, Chengyu Dong, **Churan Zhi**, Shuohang Wang, Yelong Shen, Jianfeng Gao, Jingbo Shang  
-
-**ICML 2026**
-
-**Short Summary:** We introduce DenseMixer, a novel MoE post-training technique that trades one extra forward pass on inactive experts for a more precise router gradient estimation. Our method consistently outperforms conventional methods across different MoE scales (7B, 14B, 16B, 30B), architectures (with/without shared experts), pre-training methods (from scratch/up-cycling), and post-training data types (instruction/long CoT data). It is universally applicable to any MoE using Top-K routing and can be used in a plug-and-play manner, compatible with existing training libraries and parameter-efficient methods like LoRA, introducing no changes to inference.
-
-[Paper](https://fengyao.notion.site/moe-posttraining)
-  </div>
-</div>
-
----
-
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <img src='images/paper_main/overview of H3M-SSMoEs.png' alt="sym" width="80%">
-  </div>
-  <div class='paper-box-text' markdown="1">
-
-**[3] H3M-SSMoEs: Hypergraph-based Multimodal Learning with LLM Reasoning and Style-Structured Mixture of Experts**
-
-Peilin Tan, Liang Xie, **Churan Zhi**, Dian Tu, Chuanqi Shi  
-
-**SIGKDD 2026**
-
-**Short Summary:** Stock movement prediction remains fundamentally challenging due to complex temporal dependencies, heterogeneous modalities, and dynamically evolving inter-stock relationships. Existing approaches often fail to unify structural, semantic, and regime-adaptive modeling within a scalable framework. This work introduces H3M-SSMoEs, a novel Hypergraph-based MultiModal architecture with LLM reasoning and Style-Structured Mixture of Experts, integrating three key innovations: (1) a Multi-Context Multimodal Hypergraph that hierarchically captures fine-grained spatiotemporal dynamics via a Local Context Hypergraph (LCH) and persistent inter-stock dependencies through a Global Context Hypergraph (GCH), employing shared cross-modal hyperedges and Jensen-Shannon Divergence weighting mechanism for adaptive relational learning and cross-modal alignment; (2) a LLM-enhanced reasoning module, which leverages a frozen large language model with lightweight adapters to semantically fuse and align quantitative and textual modalities, enriching representations with domain-specific financial knowledge; and (3) a Style-Structured Mixture of Experts (SSMoEs) that combines shared market experts and industry-specialized experts, each parameterized by learnable style vectors enabling regime-aware specialization under sparse activation. Extensive experiments on three major stock markets demonstrate that H3M-SSMoEs surpasses state-of-the-art methods in both superior predictive accuracy and investment performance, while exhibiting effective risk control. 
-
-[Paper](https://arxiv.org/abs/2510.25091)
-  </div>
-</div>
-
----
-
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <img src='images/paper_main/biasfreebench.png' alt="sym" width="80%">
-  </div>
-  <div class='paper-box-text' markdown="1">
-
-**[4] BiasFreeBench: a Benchmark for Mitigating Bias in Large Language Model Responses**
-
-Xin Xu, Xunzhi He#, **Churan Zhi#**, Ruizhe Chen, Julian McAuley, Zexue He  
-
-**ICLR 2026**
-
-**Short Summary:** Existing studies on bias mitigation methods for large language models (LLMs) use diverse baselines and metrics to evaluate debiasing performance, leading to inconsistent comparisons among them. Moreover, their evaluations are mostly based on the comparison between LLMs’ probabilities of biased and unbiased contexts, which ignores the gap between such evaluations and real-world use cases where users interact with LLMs by reading model responses and expect fair and safe outputs rather than LLMs’ probabilities. To enable consistent evaluation across debiasing methods and bridge this gap, we introduce BIASFREEBENCH, an empirical benchmark that comprehensively compares eight mainstream bias mitigation techniques (covering four prompting-based and four training-based methods) on two test scenarios (multi-choice QA and open-ended multi-turn QA) by reorganizing existing datasets into a unified query-response setting.
-
-[Paper](https://arxiv.org/abs/2510.00232)
-  </div>
-</div>
-
----
-
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <img src='images/paper_main/cpc.png' alt="sym" width="80%">
-  </div>
-  <div class='paper-box-text' markdown="1">
-
-**[5] Confusing Pair Correction Based on Category Prototype for Domain Adaptation under Noisy Environments**
-
-**Churan Zhi**, Junbao Zhuo, Shuhui Wang  
-
-**AAAI 2024**
-
-**Short Summary:** In this paper, we address unsupervised domain adaptation under noisy environments, which is more challenging and practical than traditional domain adaptation. In this scenario, the model is prone to overfitting noisy labels, resulting in a more pronounced domain shift and a notable decline in the overall model performance. Previous methods employed prototype methods for domain adaptation on robust feature spaces. However, these approaches struggle to effectively classify classes with similar features under noisy environments. To address this issue, we propose a new method to detect and correct confusing class pair. We first divide classes into easy and hard classes based on the small loss criterion. We then leverage the top-2 predictions for each sample after aligning the source and target domain to find the confusing pair in the hard classes. We apply label correction to the noisy samples within the confusing pair. With the proposed label correction method, we can train our model with more accurate labels.
-
-[Paper](https://arxiv.org/abs/2403.12883)
-  </div>
-</div>
-## 🔬 Research Experience
-<table>
-  <tr>
-    <td style="border: none; vertical-align: middle;">
-      <b>University of California, San Diego</b><br>
-      Research Assistant
-    </td>
-    <td style="text-align: right; border: none; vertical-align: middle; white-space: nowrap;">
-      <i>2024.09 - Present</i>
-    </td>
-  </tr>
-    <tr>
-    <td style="border: none; vertical-align: middle;">
-      <b>Chinese Academy of Sciences</b><br>
-      Research Assistant
-    </td>
-    <td style="text-align: right; border: none; vertical-align: middle; white-space: nowrap;">
-      <i>2022.02 - 2023.08</i>
-    </td>
-  </tr>
-</table>
-
----
-
-# 🔥 News
-- *2025.10*: &nbsp;😁 We open-sourced the [H3M-SSMoEs](https://github.com/PeilinTime/H3M-SSMoEs).
-
-Last Update: 11/2025
