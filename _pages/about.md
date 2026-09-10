@@ -11,9 +11,7 @@ redirect_from:
 <div class="home-shell">
   <section class="hero" id="about-me" aria-labelledby="hero-title">
     <div class="hero__content">
-      <p class="eyebrow"><span class="eyebrow__dot" aria-hidden="true"></span> Software Engineer · Mountain View, CA</p>
       <h1 id="hero-title">Churan <em>Zhi</em></h1>
-      <p class="hero__role">Gemini in Chrome · Agentic Browsing</p>
       <p class="hero__intro">
         I’m a Software Engineer on the <strong>Gemini in Chrome</strong> team at Google,
         where I work on agentic browsing and the infrastructure that powers browser agents.
@@ -41,15 +39,11 @@ redirect_from:
       <div class="hero__portrait-frame">
         <img src="/images/zcr_pic.jpg" alt="Portrait of Churan Zhi" />
       </div>
-      <figcaption>Google · Gemini in Chrome</figcaption>
     </figure>
-    <div class="hero__wash hero__wash--one" aria-hidden="true"></div>
-    <div class="hero__wash hero__wash--two" aria-hidden="true"></div>
   </section>
 
   <section class="content-section" id="publications" aria-labelledby="publications-title">
     <header class="section-heading">
-      <p class="section-kicker">Selected work</p>
       <h2 id="publications-title">Publications</h2>
     </header>
 
@@ -113,7 +107,6 @@ redirect_from:
 
   <section class="content-section" id="experience" aria-labelledby="experience-title">
     <header class="section-heading">
-      <p class="section-kicker">Where I’ve worked</p>
       <h2 id="experience-title">Experience</h2>
     </header>
 
@@ -126,19 +119,6 @@ redirect_from:
           <p class="experience-org">Google · Full-time</p>
           <p class="experience-location">Mountain View, California · On-site</p>
           <p class="experience-focus">Gemini in Chrome — Agentic Browsing &amp; Infrastructure</p>
-          <div class="tag-list"><span>AI Agents</span><span>Browser Agents</span><span>Infrastructure</span></div>
-        </div>
-      </article>
-
-      <article class="experience-card">
-        <p class="experience-date">Nov 2024 — Mar 2026</p>
-        <div class="org-mark org-mark--ucsd" aria-hidden="true"><img src="/images/ucsd_badge.png" alt="" loading="lazy" /></div>
-        <div class="experience-content">
-          <h3>Research Assistant</h3>
-          <p class="experience-org">UC San Diego · Computer Science &amp; Engineering</p>
-          <p class="experience-location">San Diego, California · On-site</p>
-          <p class="experience-focus">Trustworthy AI and AI Agent Memory</p>
-          <div class="tag-list"><span>Agent Memory</span><span>Trustworthy AI</span><span>Research</span></div>
         </div>
       </article>
 
@@ -150,7 +130,6 @@ redirect_from:
           <p class="experience-org">Amazon</p>
           <p class="experience-location">Seattle, Washington · On-site</p>
           <p class="experience-focus">Store — Tax Engine</p>
-          <div class="tag-list"><span>AI Agents</span><span>Infrastructure</span></div>
         </div>
       </article>
 
@@ -162,7 +141,6 @@ redirect_from:
           <p class="experience-org">Microsoft</p>
           <p class="experience-location">Beijing, China · On-site</p>
           <p class="experience-focus">Bing — Search &amp; Distribution</p>
-          <div class="tag-list"><span>Recommender Systems</span><span>Post-training</span></div>
         </div>
       </article>
 
@@ -174,7 +152,6 @@ redirect_from:
           <p class="experience-org">Xiaomi</p>
           <p class="experience-location">Beijing, China · On-site</p>
           <p class="experience-focus">In-car Conversational AI Agents</p>
-          <div class="tag-list"><span>Post-training</span><span>AI Agents</span></div>
         </div>
       </article>
 
@@ -182,11 +159,10 @@ redirect_from:
         <p class="experience-date">Feb 2022 — Aug 2023</p>
         <div class="org-mark org-mark--cas" aria-hidden="true"><img src="/images/org-logos/cas.jpg" alt="" loading="lazy" /></div>
         <div class="experience-content">
-          <h3>Research Assistant Intern</h3>
+          <h3>Research Assistant</h3>
           <p class="experience-org">Institute of Computing Technology, Chinese Academy of Sciences</p>
           <p class="experience-location">Beijing, China · On-site</p>
           <p class="experience-focus">Visual Information Processing and Learning (VIPL) Research Group</p>
-          <div class="tag-list"><span>Transfer Learning</span><span>Domain Adaptation</span></div>
         </div>
       </article>
     </div>
@@ -194,12 +170,10 @@ redirect_from:
 
   <section class="content-section content-section--last" id="service" aria-labelledby="service-title">
     <header class="section-heading">
-      <p class="section-kicker">Academic service</p>
       <h2 id="service-title">Service</h2>
     </header>
 
     <article class="teaching-card">
-      <div class="teaching-card__accent" aria-hidden="true"></div>
       <div>
         <p class="teaching-card__date">Mar 2025 — Jun 2025</p>
         <h3>CSE 153/253: Machine Learning for Music</h3>
