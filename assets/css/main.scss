@@ -113,15 +113,15 @@ h1:before, .anchor:before {
    ========================================================================== */
 
 :root {
-    --home-ink: #292825;
-    --home-muted: #74716c;
-    --home-line: rgba(68, 62, 56, 0.11);
-    --home-lavender: #e9e5ee;
-    --home-mint: #dfece6;
-    --home-peach: #f2e4d8;
-    --home-blue: #e4ebf0;
-    --home-paper: rgba(255, 255, 255, 0.7);
-    --home-shadow: 0 18px 60px rgba(73, 65, 57, 0.08);
+    --home-ink: #262626;
+    --home-muted: #686868;
+    --home-line: #ececea;
+    --home-lavender: #f1eff4;
+    --home-mint: #edf4f1;
+    --home-peach: #f6f0eb;
+    --home-blue: #eef3f6;
+    --home-paper: #ffffff;
+    --home-shadow: 0 10px 28px rgba(30, 30, 30, 0.05);
 }
 
 html {
@@ -130,7 +130,7 @@ html {
 }
 
 body {
-    background: #faf9f6;
+    background: #fefefe;
     color: var(--home-ink);
     font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
 }
@@ -146,7 +146,7 @@ a:focus-visible {
 }
 
 .masthead {
-    background: rgba(250, 249, 246, 0.88);
+    background: rgba(255, 255, 255, 0.94);
     border-bottom: 1px solid var(--home-line);
     box-shadow: none;
     backdrop-filter: blur(18px);
@@ -154,7 +154,7 @@ a:focus-visible {
 }
 
 .masthead__inner-wrap {
-    max-width: 1160px;
+    max-width: 1080px;
     padding: 0.85rem 1.25rem;
     font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
 }
@@ -176,10 +176,10 @@ a:focus-visible {
 
 .masthead__menu-item--lg a {
     color: var(--home-ink);
-    font-family: "Instrument Serif", Georgia, serif;
-    font-size: 1.08rem;
-    font-weight: 400;
-    letter-spacing: -0.01em;
+    font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    font-size: 0.86rem;
+    font-weight: 700;
+    letter-spacing: -0.02em;
 }
 
 .greedy-nav {
@@ -212,7 +212,7 @@ a:focus-visible {
 #main {
     display: block;
     width: 100%;
-    max-width: 1160px;
+    max-width: 1080px;
     margin: 0 auto;
     padding: 0 1.5rem;
 }
@@ -252,12 +252,12 @@ a:focus-visible {
 .hero {
     position: relative;
     display: grid;
-    grid-template-columns: minmax(0, 1fr) minmax(200px, 250px);
-    gap: clamp(2.5rem, 6vw, 5rem);
-    min-height: 500px;
+    grid-template-columns: minmax(0, 1fr) minmax(180px, 210px);
+    gap: clamp(2.5rem, 6vw, 4.5rem);
+    min-height: 420px;
     align-items: center;
     overflow: hidden;
-    padding: 5rem 5%;
+    padding: 4.25rem 4%;
 }
 
 .hero__content {
@@ -271,24 +271,19 @@ a:focus-visible {
     padding: 0;
     border: 0;
     color: #242320;
-    font-family: "Instrument Serif", Georgia, serif;
-    font-size: clamp(3.75rem, 7vw, 6rem);
-    font-weight: 400;
-    letter-spacing: -0.055em;
-    line-height: 0.88;
-}
-
-.hero h1 em {
-    color: #77726a;
-    font-style: normal;
+    font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    font-size: clamp(2.5rem, 4.5vw, 3.75rem);
+    font-weight: 700;
+    letter-spacing: -0.045em;
+    line-height: 1.05;
 }
 
 .hero__intro {
-    max-width: 710px;
-    margin: 1.5rem 0 1.8rem !important;
+    max-width: 650px;
+    margin: 1.4rem 0 1.6rem !important;
     color: var(--home-muted);
-    font-size: clamp(1rem, 1.7vw, 1.14rem) !important;
-    line-height: 1.75;
+    font-size: clamp(0.98rem, 1.5vw, 1.08rem) !important;
+    line-height: 1.7;
 }
 
 .hero__intro strong {
@@ -297,7 +292,7 @@ a:focus-visible {
 }
 
 .contact-block {
-    margin-top: 1.5rem;
+    margin-top: 1.25rem;
 }
 
 .contact-label {
@@ -312,32 +307,33 @@ a:focus-visible {
 .contact-row {
     display: flex;
     flex-wrap: wrap;
-    gap: 0.7rem;
+    gap: 1rem;
 }
 
 .contact-link {
     display: inline-flex;
     align-items: center;
     justify-content: center;
-    width: 46px;
-    height: 46px;
+    width: 36px;
+    height: 36px;
     padding: 0;
-    border: 1px solid rgba(72, 65, 58, 0.14);
-    border-radius: 50%;
-    background: rgba(255, 255, 255, 0.58);
-    color: #55514b;
-    box-shadow: 0 8px 28px rgba(73, 65, 57, 0.04);
-    transition: transform 180ms ease, background 180ms ease, box-shadow 180ms ease;
+    border: 0;
+    border-radius: 6px;
+    background: transparent;
+    color: #3c3c3c;
+    box-shadow: none;
+    transition: color 160ms ease, transform 160ms ease;
 }
 
 .contact-link i {
-    color: #5f5a53;
-    font-size: 1rem;
+    color: inherit;
+    font-size: 1.25rem;
 }
 
 .contact-link:hover {
-    background: #fff;
-    box-shadow: 0 12px 34px rgba(73, 65, 57, 0.11);
+    background: transparent;
+    color: #175f8f;
+    box-shadow: none;
     transform: translateY(-2px);
 }
 
@@ -345,17 +341,17 @@ a:focus-visible {
     position: relative;
     z-index: 2;
     justify-self: end;
-    width: min(100%, 240px);
+    width: min(100%, 205px);
     margin: 0;
 }
 
 .hero__portrait-frame {
-    padding: 0.5rem;
+    padding: 0.4rem;
     overflow: hidden;
     border: 1px solid rgba(75, 68, 61, 0.1);
-    border-radius: 28px;
-    background: rgba(255, 255, 255, 0.72);
-    box-shadow: 0 16px 48px rgba(69, 62, 55, 0.1);
+    border-radius: 18px;
+    background: #fff;
+    box-shadow: 0 10px 28px rgba(32, 32, 32, 0.08);
 }
 
 .hero__portrait img {
@@ -363,32 +359,32 @@ a:focus-visible {
     width: 100%;
     aspect-ratio: 4 / 5;
     margin: 0;
-    border-radius: 22px;
+    border-radius: 13px;
     object-fit: cover;
     object-position: center 28%;
 }
 
 .content-section {
     margin-bottom: 1.5rem;
-    padding: 4.5rem 5%;
-    border: 1px solid rgba(72, 65, 58, 0.06);
-    border-radius: 24px;
+    padding: 3.75rem 4%;
+    border: 1px solid var(--home-line);
+    border-radius: 16px;
 }
 
 #publications {
-    background: #f1efe9;
+    background: #fbfbfa;
 }
 
 #experience {
-    background: #edf2ef;
+    background: #fafcfb;
 }
 
 #service {
-    background: #f0edf2;
+    background: #fbfafc;
 }
 
 .content-section--last {
-    padding-bottom: 4.5rem;
+    padding-bottom: 3.75rem;
 }
 
 .section-heading {
@@ -398,11 +394,11 @@ a:focus-visible {
 .page__content .section-heading h2 {
     margin: 0;
     color: var(--home-ink);
-    font-family: "Instrument Serif", Georgia, serif;
-    font-size: clamp(2.5rem, 4.5vw, 3.6rem);
-    font-weight: 400;
-    letter-spacing: -0.04em;
-    line-height: 1;
+    font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    font-size: clamp(1.9rem, 3vw, 2.4rem);
+    font-weight: 700;
+    letter-spacing: -0.035em;
+    line-height: 1.15;
 }
 
 .publication-list,
@@ -417,24 +413,24 @@ a:focus-visible {
     gap: 1.4rem;
     padding: 1.8rem;
     border: 1px solid rgba(72, 65, 58, 0.09);
-    border-radius: 24px;
+    border-radius: 12px;
     background: var(--home-paper);
-    box-shadow: 0 10px 40px rgba(73, 65, 57, 0.035);
+    box-shadow: none;
     transition: border-color 180ms ease, transform 180ms ease, box-shadow 180ms ease;
 }
 
 .publication-card:hover {
-    border-color: rgba(98, 111, 101, 0.24);
-    box-shadow: var(--home-shadow);
-    transform: translateY(-2px);
+    border-color: #d9d9d6;
+    box-shadow: none;
+    transform: none;
 }
 
 .publication-number {
     color: #a49c90;
-    font-family: "Instrument Serif", Georgia, serif;
-    font-size: 1.8rem;
+    font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    font-size: 0.82rem;
     font-weight: 600;
-    letter-spacing: -0.04em;
+    letter-spacing: 0.02em;
 }
 
 .publication-content h3 {
@@ -517,8 +513,8 @@ a:focus-visible {
     align-items: start;
     padding: 1.8rem;
     border: 1px solid rgba(72, 65, 58, 0.09);
-    border-radius: 24px;
-    background: rgba(255, 255, 255, 0.68);
+    border-radius: 12px;
+    background: #fff;
 }
 
 .experience-date,
@@ -538,10 +534,10 @@ a:focus-visible {
     height: 50px;
     place-items: center;
     border: 1px solid rgba(62, 58, 84, 0.07);
-    border-radius: 15px;
+    border-radius: 10px;
     font-size: 0.82rem;
     font-weight: 800;
-    box-shadow: 0 8px 22px rgba(50, 47, 73, 0.06);
+    box-shadow: none;
 }
 
 .org-mark img {
@@ -598,9 +594,9 @@ a:focus-visible {
     overflow: hidden;
     padding: 2rem;
     border: 1px solid rgba(72, 65, 58, 0.09);
-    border-radius: 24px;
-    background: linear-gradient(135deg, rgba(255, 255, 255, 0.78), rgba(239, 234, 241, 0.72));
-    box-shadow: 0 12px 44px rgba(73, 65, 57, 0.05);
+    border-radius: 12px;
+    background: #fff;
+    box-shadow: none;
 }
 
 .teaching-card__date {
@@ -614,7 +610,7 @@ a:focus-visible {
 }
 
 .site-footer {
-    max-width: 1160px;
+    max-width: 1080px;
     margin: 0 auto;
     padding: 1.8rem 1.5rem 2.5rem;
     border-top: 1px solid var(--home-line);
@@ -635,41 +631,41 @@ a:focus-visible {
 
     .hero {
         grid-template-columns: 1fr;
-        gap: 2rem;
+        gap: 1.75rem;
         min-height: auto;
-        padding: 4.5rem 1rem 4rem;
+        padding: 3.5rem 1rem;
     }
 
     .hero__portrait {
         justify-self: center;
-        width: 180px;
+        width: 160px;
     }
 
     .page__content .hero h1 {
-        font-size: clamp(3.3rem, 16vw, 4.6rem);
+        font-size: clamp(2.4rem, 12vw, 3.2rem);
     }
 
     .content-section {
-        padding: 3.5rem 1.2rem;
-        border-radius: 22px;
+        padding: 3rem 1.2rem;
+        border-radius: 14px;
     }
 
     .publication-card {
         grid-template-columns: 45px minmax(0, 1fr);
         gap: 0.8rem;
         padding: 1.35rem;
-        border-radius: 20px;
+        border-radius: 10px;
     }
 
     .publication-number {
-        font-size: 1.35rem;
+        font-size: 0.78rem;
     }
 
     .experience-card {
         grid-template-columns: 48px minmax(0, 1fr);
         gap: 1rem;
         padding: 1.35rem;
-        border-radius: 20px;
+        border-radius: 10px;
     }
 
     .experience-date {
@@ -680,7 +676,7 @@ a:focus-visible {
     .org-mark {
         width: 46px;
         height: 46px;
-        border-radius: 13px;
+        border-radius: 9px;
     }
 }
 
@@ -694,7 +690,7 @@ a:focus-visible {
     }
 
     .hero {
-        padding-top: 4rem;
+        padding-top: 3rem;
     }
 
     .contact-row {
@@ -702,9 +698,9 @@ a:focus-visible {
     }
 
     .contact-link {
-        width: 42px;
-        height: 42px;
-        min-height: 42px;
+        width: 34px;
+        height: 34px;
+        min-height: 34px;
         padding: 0;
     }
 

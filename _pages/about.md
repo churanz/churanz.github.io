@@ -11,7 +11,7 @@ redirect_from:
 <div class="home-shell">
   <section class="hero" id="about-me" aria-labelledby="hero-title">
     <div class="hero__content">
-      <h1 id="hero-title">Churan <em>Zhi</em></h1>
+      <h1 id="hero-title">Churan Zhi</h1>
       <p class="hero__intro">
         I’m a Software Engineer on the <strong>Gemini in Chrome</strong> team at Google,
         where I work on agentic browsing and the infrastructure that powers browser agents.
