@@ -14,7 +14,8 @@ redirect_from:
       <h1 id="hero-title">Churan Zhi</h1>
       <p class="hero__intro">
         I’m currently a Software Engineer at Google, working on agentic browsing for <strong>Gemini in Chrome</strong>.
-        My research interests focus on helping AI agents browse the web and use computers more effectively, so they can deliver faster, more reliable assistance to everyone.
+        My research interests lie in helping AI agents browse the web and use computers more effectively.
+        I want to make these agents faster, more reliable, and useful to everyone.
       </p>
       <div class="contact-block">
         <p class="contact-label">Reach out</p>
