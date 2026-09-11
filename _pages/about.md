@@ -16,13 +16,6 @@ redirect_from:
         I’m a Software Engineer on the <strong>Gemini in Chrome</strong> team at Google,
         where I work on agentic browsing and the infrastructure that powers browser agents.
       </p>
-      <p class="hero__advisors">
-        Research advisors:
-        <a href="https://scholar.google.com/citations?user=iBt9uHUAAAAJ&amp;hl=en" target="_blank" rel="noopener noreferrer">Prof. Junbao Zhuo</a>
-        and
-        <a href="https://cseweb.ucsd.edu/~jmcauley/" target="_blank" rel="noopener noreferrer">Prof. Julian McAuley</a>.
-      </p>
-
       <div class="contact-block">
         <p class="contact-label">Reach out</p>
         <div class="contact-row" aria-label="Ways to reach Churan Zhi">
@@ -114,9 +107,10 @@ redirect_from:
       <article class="education-row">
         <p class="education-degree">M.S.</p>
         <div class="education-content">
-          <p class="education-date">2024 — 2026</p>
+          <p class="education-date">Sep 2024 — Mar 2026</p>
           <h3>University of California, San Diego</h3>
           <p class="education-program">M.S. in Computer Science · San Diego, California</p>
+          <p class="education-advisor"><strong>Advisor:</strong> <a href="https://cseweb.ucsd.edu/~jmcauley/" target="_blank" rel="noopener noreferrer">Julian McAuley</a></p>
           <p class="education-note"><strong>Teaching Assistant</strong> · CSE 153/253: Machine Learning for Music · Mar 2025 — Jun 2025</p>
         </div>
         <img class="education-logo" src="/images/ucsd_badge.png" alt="UC San Diego seal" loading="lazy" />
@@ -125,9 +119,10 @@ redirect_from:
       <article class="education-row">
         <p class="education-degree">B.S.</p>
         <div class="education-content">
-          <p class="education-date">2020 — 2024</p>
+          <p class="education-date">Sep 2020 — Jun 2024</p>
           <h3>Beijing Jiaotong University</h3>
-          <p class="education-program">B.S. in Computing Science · Beijing, China</p>
+          <p class="education-program">B.S. in Computer Science · Beijing, China</p>
+          <p class="education-advisor"><strong>Advisors:</strong> <a href="https://scholar.google.com/citations?hl=zh-CN&amp;user=iBt9uHUAAAAJ&amp;view_op=list_works&amp;sortby=pubdate" target="_blank" rel="noopener noreferrer">Junbao Zhuo</a>, <a href="https://scholar.google.com/citations?user=h-JxBSYAAAAJ&amp;hl=zh-CN" target="_blank" rel="noopener noreferrer">Shuhui Wang</a></p>
         </div>
         <img class="education-logo" src="/images/bjtu_badge.png" alt="Beijing Jiaotong University seal" loading="lazy" />
       </article>

@@ -291,24 +291,6 @@ a:focus-visible {
     font-weight: 700;
 }
 
-.hero__advisors {
-    margin: -0.65rem 0 0 !important;
-    color: #77736d;
-    font-size: 0.82rem !important;
-    line-height: 1.6;
-}
-
-.hero__advisors a {
-    color: #55514b;
-    font-weight: 600;
-    border-bottom: 1px solid #d7d2ca;
-}
-
-.hero__advisors a:hover {
-    color: #175f8f;
-    border-bottom-color: #175f8f;
-}
-
 .contact-block {
     margin-top: 1.25rem;
 }
@@ -517,6 +499,7 @@ a:focus-visible {
 .education-degree,
 .education-date,
 .education-program,
+.education-advisor,
 .education-note {
     margin: 0 !important;
 }
@@ -546,6 +529,21 @@ a:focus-visible {
     margin-top: 0.3rem !important;
     color: #555;
     font-size: 0.86rem !important;
+}
+
+.education-advisor {
+    margin-top: 0.25rem !important;
+    color: #65615b;
+    font-size: 0.82rem !important;
+}
+
+.education-advisor strong {
+    color: #444;
+    font-weight: 600;
+}
+
+.education-advisor a {
+    color: #2368b3;
 }
 
 .education-note {
