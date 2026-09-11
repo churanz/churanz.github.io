@@ -14,8 +14,7 @@ redirect_from:
       <h1 id="hero-title">Churan Zhi</h1>
       <p class="hero__intro">
         I’m currently a Software Engineer at Google, working on agentic browsing for <strong>Gemini in Chrome</strong>.
-        My research interests lie in helping AI agents browse the web and use computers more effectively.
-        I want to make these agents faster, more reliable, and useful to everyone.
+        My research interests lie in enabling AI agents to browse the web and use computers with lower latency and greater reliability.
       </p>
       <div class="contact-block">
         <p class="contact-label">Reach out</p>
@@ -141,8 +140,8 @@ redirect_from:
         <p class="experience-date">Apr 2026 — Present</p>
         <div class="org-mark org-mark--google" aria-hidden="true"><img src="/images/org-logos/google.svg" alt="" loading="lazy" /></div>
         <div class="experience-content">
-          <h3>Software Engineer</h3>
-          <p class="experience-org">Google · Full-time</p>
+          <h3>Google</h3>
+          <p class="experience-role">Software Engineer · Full-time</p>
           <p class="experience-location">Mountain View, California</p>
           <p class="experience-focus">Gemini in Chrome — Agentic Browsing &amp; Infrastructure</p>
         </div>
@@ -152,8 +151,8 @@ redirect_from:
         <p class="experience-date">Jun 2025 — Sep 2025</p>
         <div class="org-mark org-mark--amazon" aria-hidden="true"><img src="/images/org-logos/amazon.svg" alt="" loading="lazy" /></div>
         <div class="experience-content">
-          <h3>Software Engineer Intern</h3>
-          <p class="experience-org">Amazon</p>
+          <h3>Amazon</h3>
+          <p class="experience-role">Software Engineer Intern</p>
           <p class="experience-location">Seattle, Washington</p>
           <p class="experience-focus">Store — Tax Engine</p>
         </div>
@@ -163,8 +162,8 @@ redirect_from:
         <p class="experience-date">May 2024 — Jul 2024</p>
         <div class="org-mark org-mark--microsoft" aria-hidden="true"><img src="/images/org-logos/microsoft.svg" alt="" loading="lazy" /></div>
         <div class="experience-content">
-          <h3>Software Engineer Intern</h3>
-          <p class="experience-org">Microsoft</p>
+          <h3>Microsoft</h3>
+          <p class="experience-role">Software Engineer Intern</p>
           <p class="experience-location">Beijing, China</p>
           <p class="experience-focus">Bing — Search &amp; Distribution</p>
         </div>
@@ -174,8 +173,8 @@ redirect_from:
         <p class="experience-date">Feb 2024 — Apr 2024</p>
         <div class="org-mark org-mark--xiaomi" aria-hidden="true"><img src="/images/org-logos/xiaomi.svg" alt="" loading="lazy" /></div>
         <div class="experience-content">
-          <h3>Machine Learning Engineer Intern</h3>
-          <p class="experience-org">Xiaomi</p>
+          <h3>Xiaomi</h3>
+          <p class="experience-role">Machine Learning Engineer Intern</p>
           <p class="experience-location">Beijing, China</p>
           <p class="experience-focus">In-car Conversational AI Agents</p>
         </div>
