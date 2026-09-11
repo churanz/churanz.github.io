@@ -140,10 +140,14 @@ redirect_from:
         <p class="experience-date">Apr 2026 — Present</p>
         <div class="org-mark org-mark--google" aria-hidden="true"><img src="/images/org-logos/google.svg" alt="" loading="lazy" /></div>
         <div class="experience-content">
-          <h3>Google</h3>
-          <p class="experience-role">Software Engineer · Full-time</p>
-          <p class="experience-location">Mountain View, California</p>
-          <p class="experience-focus">Gemini in Chrome — Agentic Browsing &amp; Infrastructure</p>
+          <div class="experience-primary">
+            <h3>Google</h3>
+            <p class="experience-role">Software Engineer · Full-time</p>
+          </div>
+          <div class="experience-secondary">
+            <p class="experience-location">Mountain View, California</p>
+            <p class="experience-focus">Gemini in Chrome: Agentic Browsing &amp; Infrastructure</p>
+          </div>
         </div>
       </article>
 
@@ -151,10 +155,14 @@ redirect_from:
         <p class="experience-date">Jun 2025 — Sep 2025</p>
         <div class="org-mark org-mark--amazon" aria-hidden="true"><img src="/images/org-logos/amazon.svg" alt="" loading="lazy" /></div>
         <div class="experience-content">
-          <h3>Amazon</h3>
-          <p class="experience-role">Software Engineer Intern</p>
-          <p class="experience-location">Seattle, Washington</p>
-          <p class="experience-focus">Store — Tax Engine</p>
+          <div class="experience-primary">
+            <h3>Amazon</h3>
+            <p class="experience-role">Software Engineer Intern</p>
+          </div>
+          <div class="experience-secondary">
+            <p class="experience-location">Seattle, Washington</p>
+            <p class="experience-focus">Store: Tax Engine</p>
+          </div>
         </div>
       </article>
 
@@ -162,10 +170,14 @@ redirect_from:
         <p class="experience-date">May 2024 — Jul 2024</p>
         <div class="org-mark org-mark--microsoft" aria-hidden="true"><img src="/images/org-logos/microsoft.svg" alt="" loading="lazy" /></div>
         <div class="experience-content">
-          <h3>Microsoft</h3>
-          <p class="experience-role">Software Engineer Intern</p>
-          <p class="experience-location">Beijing, China</p>
-          <p class="experience-focus">Bing — Search &amp; Distribution</p>
+          <div class="experience-primary">
+            <h3>Microsoft</h3>
+            <p class="experience-role">Software Engineer Intern</p>
+          </div>
+          <div class="experience-secondary">
+            <p class="experience-location">Beijing, China</p>
+            <p class="experience-focus">Bing: Search &amp; Distribution</p>
+          </div>
         </div>
       </article>
 
@@ -173,10 +185,14 @@ redirect_from:
         <p class="experience-date">Feb 2024 — Apr 2024</p>
         <div class="org-mark org-mark--xiaomi" aria-hidden="true"><img src="/images/org-logos/xiaomi.svg" alt="" loading="lazy" /></div>
         <div class="experience-content">
-          <h3>Xiaomi</h3>
-          <p class="experience-role">Machine Learning Engineer Intern</p>
-          <p class="experience-location">Beijing, China</p>
-          <p class="experience-focus">In-car Conversational AI Agents</p>
+          <div class="experience-primary">
+            <h3>Xiaomi</h3>
+            <p class="experience-role">Machine Learning Engineer Intern</p>
+          </div>
+          <div class="experience-secondary">
+            <p class="experience-location">Beijing, China</p>
+            <p class="experience-focus">In-car Conversational AI Agents</p>
+          </div>
         </div>
       </article>
 

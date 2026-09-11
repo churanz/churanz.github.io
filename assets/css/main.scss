@@ -568,10 +568,10 @@ a:focus-visible {
 
 .experience-card {
     display: grid;
-    grid-template-columns: 155px 54px minmax(0, 1fr);
-    gap: 1.4rem;
+    grid-template-columns: 125px 50px minmax(0, 1fr);
+    gap: 1.25rem;
     align-items: start;
-    padding: 1.8rem;
+    padding: 1.5rem;
     border: 1px solid rgba(72, 65, 58, 0.09);
     border-radius: 12px;
     background: #fff;
@@ -614,6 +614,14 @@ a:focus-visible {
 .org-mark--amazon img { width: 32px; height: 32px; }
 .org-mark--microsoft { background: #f1f3f2; }
 .org-mark--xiaomi { background: #fae8dc; }
+
+.experience-content {
+    display: grid;
+    grid-template-columns: minmax(170px, 0.8fr) minmax(240px, 1.2fr);
+    gap: 2rem;
+    align-items: start;
+}
+
 .experience-content h3 {
     margin: 0;
     color: #302e2a;
@@ -631,13 +639,13 @@ a:focus-visible {
 }
 
 .experience-location {
-    margin: 0.25rem 0 0 !important;
+    margin: 0.15rem 0 0 !important;
     color: #918d86;
     font-size: 0.72rem !important;
 }
 
 .experience-focus {
-    margin: 0.9rem 0 0 !important;
+    margin: 0.35rem 0 0 !important;
     color: #67635d;
     font-size: 0.83rem !important;
     line-height: 1.6;
@@ -721,6 +729,10 @@ a:focus-visible {
     .experience-date {
         grid-column: 1 / -1;
         margin: 0 !important;
+    }
+
+    .experience-content {
+        display: block;
     }
 
     .org-mark {
