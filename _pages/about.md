@@ -123,6 +123,7 @@ redirect_from:
           <h3>Beijing Jiaotong University</h3>
           <p class="education-program">B.S. in Computer Science · Beijing, China</p>
           <p class="education-advisor"><strong>Advisors:</strong> <a href="https://scholar.google.com/citations?hl=zh-CN&amp;user=iBt9uHUAAAAJ&amp;view_op=list_works&amp;sortby=pubdate" target="_blank" rel="noopener noreferrer">Junbao Zhuo</a>, <a href="https://scholar.google.com/citations?user=h-JxBSYAAAAJ&amp;hl=zh-CN" target="_blank" rel="noopener noreferrer">Shuhui Wang</a></p>
+          <p class="education-note"><strong>Research Assistant</strong> · Institute of Computing Technology, Chinese Academy of Sciences · Feb 2022 — Aug 2023<br />Visual Information Processing and Learning (VIPL) Research Group · Beijing, China</p>
         </div>
         <img class="education-logo" src="/images/bjtu_badge.png" alt="Beijing Jiaotong University seal" loading="lazy" />
       </article>
@@ -179,16 +180,6 @@ redirect_from:
         </div>
       </article>
 
-      <article class="experience-card">
-        <p class="experience-date">Feb 2022 — Aug 2023</p>
-        <div class="org-mark org-mark--cas" aria-hidden="true"><img src="/images/org-logos/cas.jpg" alt="" loading="lazy" /></div>
-        <div class="experience-content">
-          <h3>Research Assistant</h3>
-          <p class="experience-org">Institute of Computing Technology, Chinese Academy of Sciences</p>
-          <p class="experience-location">Beijing, China</p>
-          <p class="experience-focus">Visual Information Processing and Learning (VIPL) Research Group</p>
-        </div>
-      </article>
     </div>
   </section>
 </div>
