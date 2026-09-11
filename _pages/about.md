@@ -52,63 +52,57 @@ redirect_from:
     <header class="section-heading">
       <h2 id="publications-title">Publications</h2>
     </header>
+    <p class="contribution-note"><sup>*</sup> Equal contribution.</p>
 
     <div class="publication-list">
       <article class="publication-card">
-        <div class="publication-number" aria-hidden="true">01</div>
         <div class="publication-content">
           <h3><a href="https://arxiv.org/abs/2602.16313" target="_blank" rel="noopener noreferrer">MemoryArena: Benchmarking Agent Memory in Interdependent Multi-Session Agentic Tasks</a></h3>
-          <p class="publication-authors">Zexue He<sup>#</sup>, Yu Wang<sup>#</sup>, <strong>Churan Zhi<sup>#</sup></strong>, Yuanzhe Hu<sup>#</sup>, Tzu-Ping Chen<sup>#</sup>, Lang Yin<sup>#</sup>, Ze Chen, Tong Arthur Wu, Siru Ouyang, Zihan Wang, Jiaxin Pei, Julian McAuley, Yejin Choi, Alex Pentland</p>
-          <div class="publication-footer"><span class="venue venue--lavender">ICML 2026</span><a href="https://arxiv.org/abs/2602.16313" target="_blank" rel="noopener noreferrer">Paper <span aria-hidden="true">↗</span></a></div>
+          <p class="publication-authors">Zexue He<sup>*</sup>, Yu Wang<sup>*</sup>, <strong>Churan Zhi<sup>*</sup></strong>, Yuanzhe Hu<sup>*</sup>, Tzu-Ping Chen<sup>*</sup>, Lang Yin<sup>*</sup>, Ze Chen, Tong Arthur Wu, Siru Ouyang, Zihan Wang, Jiaxin Pei, Julian McAuley, Yejin Choi, Alex Pentland</p>
+          <div class="publication-footer"><span class="venue">ICML 2026</span><a href="https://arxiv.org/abs/2602.16313" target="_blank" rel="noopener noreferrer">[Paper]</a></div>
         </div>
       </article>
 
       <article class="publication-card">
-        <div class="publication-number" aria-hidden="true">02</div>
         <div class="publication-content">
           <h3><a href="https://fengyao.notion.site/moe-posttraining" target="_blank" rel="noopener noreferrer">DenseMixer: Improving MoE Post-Training with Precise Router Gradients</a></h3>
           <p class="publication-authors">Feng Yao, Junxia Cui, Ruohan Zhang, Liyuan Liu, Shibo Hao, Li Zhang, Chengyu Dong, <strong>Churan Zhi</strong>, Shuohang Wang, Yelong Shen, Jianfeng Gao, Jingbo Shang</p>
-          <div class="publication-footer"><span class="venue venue--mint">EMNLP 2026</span><a href="https://fengyao.notion.site/moe-posttraining" target="_blank" rel="noopener noreferrer">Paper <span aria-hidden="true">↗</span></a></div>
+          <div class="publication-footer"><span class="venue">EMNLP 2026</span><a href="https://fengyao.notion.site/moe-posttraining" target="_blank" rel="noopener noreferrer">[Paper]</a></div>
         </div>
       </article>
 
       <article class="publication-card">
-        <div class="publication-number" aria-hidden="true">03</div>
         <div class="publication-content">
           <h3><a href="https://arxiv.org/abs/2510.25091" target="_blank" rel="noopener noreferrer">H3M-SSMoEs: Hypergraph-based Multimodal Learning with LLM Reasoning and Style-Structured Mixture of Experts</a></h3>
           <p class="publication-authors">Peilin Tan, Liang Xie, <strong>Churan Zhi</strong>, Dian Tu, Chuanqi Shi</p>
-          <div class="publication-footer"><span class="venue venue--peach">AAAI 2027</span><a href="https://arxiv.org/abs/2510.25091" target="_blank" rel="noopener noreferrer">Paper <span aria-hidden="true">↗</span></a></div>
+          <div class="publication-footer"><span class="venue">AAAI 2027</span><a href="https://arxiv.org/abs/2510.25091" target="_blank" rel="noopener noreferrer">[Paper]</a></div>
         </div>
       </article>
 
       <article class="publication-card">
-        <div class="publication-number" aria-hidden="true">04</div>
         <div class="publication-content">
           <h3><a href="https://arxiv.org/abs/2510.00232" target="_blank" rel="noopener noreferrer">BiasFreeBench: A Benchmark for Mitigating Bias in Large Language Model Responses</a></h3>
-          <p class="publication-authors">Xin Xu, Xunzhi He<sup>#</sup>, <strong>Churan Zhi<sup>#</sup></strong>, Ruizhe Chen, Julian McAuley, Zexue He</p>
-          <div class="publication-footer"><span class="venue venue--blue">ICLR 2026</span><a href="https://arxiv.org/abs/2510.00232" target="_blank" rel="noopener noreferrer">Paper <span aria-hidden="true">↗</span></a></div>
+          <p class="publication-authors">Xin Xu, Xunzhi He<sup>*</sup>, <strong>Churan Zhi<sup>*</sup></strong>, Ruizhe Chen, Julian McAuley, Zexue He</p>
+          <div class="publication-footer"><span class="venue">ICLR 2026</span><a href="https://arxiv.org/abs/2510.00232" target="_blank" rel="noopener noreferrer">[Paper]</a></div>
         </div>
       </article>
 
       <article class="publication-card">
-        <div class="publication-number" aria-hidden="true">05</div>
         <div class="publication-content">
           <h3><a href="https://arxiv.org/abs/2403.12883" target="_blank" rel="noopener noreferrer">Confusing Pair Correction Based on Category Prototype for Domain Adaptation under Noisy Environments</a></h3>
           <p class="publication-authors"><strong>Churan Zhi</strong>, Junbao Zhuo, Shuhui Wang</p>
-          <div class="publication-footer"><span class="venue venue--lavender">AAAI 2024</span><a href="https://arxiv.org/abs/2403.12883" target="_blank" rel="noopener noreferrer">Paper <span aria-hidden="true">↗</span></a></div>
+          <div class="publication-footer"><span class="venue">AAAI 2024</span><a href="https://arxiv.org/abs/2403.12883" target="_blank" rel="noopener noreferrer">[Paper]</a></div>
         </div>
       </article>
 
       <article class="publication-card" id="mixweaver">
-        <div class="publication-number" aria-hidden="true">06</div>
         <div class="publication-content">
           <h3>MixWeaver: Stem-aware Automatic DJ Transition Generation via Structured Discrete Optimization</h3>
           <p class="publication-authors">Xuran Zhou, Xunyi Jiang, <strong>Churan Zhi</strong>, Junda Wu, Julian McAuley</p>
-          <div class="publication-footer"><span class="venue venue--mint">ISMIR 2026</span><a class="publication-link--placeholder" href="#mixweaver" aria-disabled="true" title="Paper link coming soon">Paper <span aria-hidden="true">↗</span></a></div>
+          <div class="publication-footer"><span class="venue">ISMIR 2026</span><span class="publication-link--placeholder">[Paper]</span></div>
         </div>
       </article>
     </div>
-    <p class="contribution-note"><sup>#</sup> Equal contribution.</p>
   </section>
 
   <section class="content-section" id="education" aria-labelledby="education-title">
