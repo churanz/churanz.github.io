@@ -105,7 +105,36 @@ redirect_from:
     <p class="contribution-note"><sup>#</sup> Equal contribution.</p>
   </section>
 
-  <section class="content-section" id="experience" aria-labelledby="experience-title">
+  <section class="content-section" id="education" aria-labelledby="education-title">
+    <header class="section-heading">
+      <h2 id="education-title"><i class="fas fa-graduation-cap" aria-hidden="true"></i>Education</h2>
+    </header>
+
+    <div class="education-list">
+      <article class="education-row">
+        <p class="education-degree">M.S.</p>
+        <div class="education-content">
+          <p class="education-date">2024 — 2026</p>
+          <h3>University of California, San Diego</h3>
+          <p class="education-program">M.S. in Computer Science · San Diego, California</p>
+          <p class="education-note"><strong>Teaching Assistant</strong> · CSE 153/253: Machine Learning for Music · Mar 2025 — Jun 2025</p>
+        </div>
+        <img class="education-logo" src="/images/ucsd_badge.png" alt="UC San Diego seal" loading="lazy" />
+      </article>
+
+      <article class="education-row">
+        <p class="education-degree">B.S.</p>
+        <div class="education-content">
+          <p class="education-date">2020 — 2024</p>
+          <h3>Beijing Jiaotong University</h3>
+          <p class="education-program">B.S. in Computing Science · Beijing, China</p>
+        </div>
+        <img class="education-logo" src="/images/bjtu_badge.png" alt="Beijing Jiaotong University seal" loading="lazy" />
+      </article>
+    </div>
+  </section>
+
+  <section class="content-section content-section--last" id="experience" aria-labelledby="experience-title">
     <header class="section-heading">
       <h2 id="experience-title">Experience</h2>
     </header>
@@ -117,7 +146,7 @@ redirect_from:
         <div class="experience-content">
           <h3>Software Engineer</h3>
           <p class="experience-org">Google · Full-time</p>
-          <p class="experience-location">Mountain View, California · On-site</p>
+          <p class="experience-location">Mountain View, California</p>
           <p class="experience-focus">Gemini in Chrome — Agentic Browsing &amp; Infrastructure</p>
         </div>
       </article>
@@ -128,7 +157,7 @@ redirect_from:
         <div class="experience-content">
           <h3>Software Engineer Intern</h3>
           <p class="experience-org">Amazon</p>
-          <p class="experience-location">Seattle, Washington · On-site</p>
+          <p class="experience-location">Seattle, Washington</p>
           <p class="experience-focus">Store — Tax Engine</p>
         </div>
       </article>
@@ -139,7 +168,7 @@ redirect_from:
         <div class="experience-content">
           <h3>Software Engineer Intern</h3>
           <p class="experience-org">Microsoft</p>
-          <p class="experience-location">Beijing, China · On-site</p>
+          <p class="experience-location">Beijing, China</p>
           <p class="experience-focus">Bing — Search &amp; Distribution</p>
         </div>
       </article>
@@ -150,7 +179,7 @@ redirect_from:
         <div class="experience-content">
           <h3>Machine Learning Engineer Intern</h3>
           <p class="experience-org">Xiaomi</p>
-          <p class="experience-location">Beijing, China · On-site</p>
+          <p class="experience-location">Beijing, China</p>
           <p class="experience-focus">In-car Conversational AI Agents</p>
         </div>
       </article>
@@ -161,24 +190,10 @@ redirect_from:
         <div class="experience-content">
           <h3>Research Assistant</h3>
           <p class="experience-org">Institute of Computing Technology, Chinese Academy of Sciences</p>
-          <p class="experience-location">Beijing, China · On-site</p>
+          <p class="experience-location">Beijing, China</p>
           <p class="experience-focus">Visual Information Processing and Learning (VIPL) Research Group</p>
         </div>
       </article>
     </div>
-  </section>
-
-  <section class="content-section content-section--last" id="service" aria-labelledby="service-title">
-    <header class="section-heading">
-      <h2 id="service-title">Service</h2>
-    </header>
-
-    <article class="teaching-card">
-      <div>
-        <p class="teaching-card__date">Mar 2025 — Jun 2025</p>
-        <h3>CSE 153/253: Machine Learning for Music</h3>
-        <p>Teaching Assistant · UC San Diego</p>
-      </div>
-    </article>
   </section>
 </div>

@@ -375,12 +375,12 @@ a:focus-visible {
     background: #fbfbfa;
 }
 
-#experience {
-    background: #fafcfb;
+#education {
+    background: #ffffff;
 }
 
-#service {
-    background: #fbfafc;
+#experience {
+    background: #fafcfb;
 }
 
 .content-section--last {
@@ -399,6 +399,11 @@ a:focus-visible {
     font-weight: 700;
     letter-spacing: -0.035em;
     line-height: 1.15;
+}
+
+.page__content .section-heading h2 i {
+    margin-right: 0.55rem;
+    font-size: 0.82em;
 }
 
 .publication-list,
@@ -506,6 +511,73 @@ a:focus-visible {
     pointer-events: none;
 }
 
+.education-list {
+    border-bottom: 1px solid var(--home-line);
+}
+
+.education-row {
+    display: grid;
+    grid-template-columns: 70px minmax(0, 1fr) 72px;
+    gap: 1.5rem;
+    align-items: start;
+    padding: 1.6rem 0;
+    border-top: 1px solid var(--home-line);
+}
+
+.education-degree,
+.education-date,
+.education-program,
+.education-note {
+    margin: 0 !important;
+}
+
+.education-degree {
+    color: #303030;
+    font-size: 1rem !important;
+    font-weight: 700;
+}
+
+.education-date {
+    margin-bottom: 0.35rem !important;
+    color: #777;
+    font-size: 0.75rem !important;
+}
+
+.education-content h3 {
+    margin: 0;
+    color: #2f2f2f;
+    font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    font-size: 1.08rem;
+    font-weight: 700;
+    letter-spacing: -0.02em;
+}
+
+.education-program {
+    margin-top: 0.3rem !important;
+    color: #555;
+    font-size: 0.86rem !important;
+}
+
+.education-note {
+    margin-top: 0.7rem !important;
+    color: #707070;
+    font-size: 0.79rem !important;
+    line-height: 1.55;
+}
+
+.education-note strong {
+    color: #444;
+    font-weight: 600;
+}
+
+.education-logo {
+    display: block;
+    width: 62px;
+    height: 62px;
+    margin: 0;
+    object-fit: contain;
+}
+
 .experience-card {
     display: grid;
     grid-template-columns: 155px 54px minmax(0, 1fr);
@@ -517,8 +589,7 @@ a:focus-visible {
     background: #fff;
 }
 
-.experience-date,
-.teaching-card__date {
+.experience-date {
     margin: 0.25rem 0 0 !important;
     color: #817d76;
     font-size: 0.66rem !important;
@@ -558,8 +629,7 @@ a:focus-visible {
 .org-mark--cas { overflow: hidden; background: #e8edf8; }
 .org-mark--cas img { width: 40px; height: 40px; border-radius: 50%; }
 
-.experience-content h3,
-.teaching-card h3 {
+.experience-content h3 {
     margin: 0;
     color: #302e2a;
     font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
@@ -586,27 +656,6 @@ a:focus-visible {
     color: #67635d;
     font-size: 0.83rem !important;
     line-height: 1.6;
-}
-
-.teaching-card {
-    position: relative;
-    max-width: 760px;
-    overflow: hidden;
-    padding: 2rem;
-    border: 1px solid rgba(72, 65, 58, 0.09);
-    border-radius: 12px;
-    background: #fff;
-    box-shadow: none;
-}
-
-.teaching-card__date {
-    margin: 0 0 0.65rem !important;
-}
-
-.teaching-card p:last-child {
-    margin: 0.45rem 0 0 !important;
-    color: var(--home-muted);
-    font-size: 0.82rem !important;
 }
 
 .site-footer {
@@ -648,6 +697,28 @@ a:focus-visible {
     .content-section {
         padding: 3rem 1.2rem;
         border-radius: 14px;
+    }
+
+    .education-row {
+        grid-template-columns: minmax(0, 1fr) 52px;
+        gap: 0.75rem 1rem;
+    }
+
+    .education-degree {
+        grid-column: 1;
+        grid-row: 1;
+    }
+
+    .education-content {
+        grid-column: 1;
+        grid-row: 2;
+    }
+
+    .education-logo {
+        grid-column: 2;
+        grid-row: 1 / span 2;
+        width: 48px;
+        height: 48px;
     }
 
     .publication-card {
@@ -716,7 +787,6 @@ a:focus-visible {
         flex-wrap: wrap;
     }
 
-    .teaching-card { padding: 1.5rem; }
 }
 
 @media (prefers-reduced-motion: reduce) {
