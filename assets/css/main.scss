@@ -291,6 +291,24 @@ a:focus-visible {
     font-weight: 700;
 }
 
+.hero__advisors {
+    margin: -0.65rem 0 0 !important;
+    color: #77736d;
+    font-size: 0.82rem !important;
+    line-height: 1.6;
+}
+
+.hero__advisors a {
+    color: #55514b;
+    font-weight: 600;
+    border-bottom: 1px solid #d7d2ca;
+}
+
+.hero__advisors a:hover {
+    color: #175f8f;
+    border-bottom-color: #175f8f;
+}
+
 .contact-block {
     margin-top: 1.25rem;
 }

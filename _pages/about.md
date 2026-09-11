@@ -16,6 +16,12 @@ redirect_from:
         I’m a Software Engineer on the <strong>Gemini in Chrome</strong> team at Google,
         where I work on agentic browsing and the infrastructure that powers browser agents.
       </p>
+      <p class="hero__advisors">
+        Research advisors:
+        <a href="https://scholar.google.com/citations?user=iBt9uHUAAAAJ&amp;hl=en" target="_blank" rel="noopener noreferrer">Prof. Junbao Zhuo</a>
+        and
+        <a href="https://cseweb.ucsd.edu/~jmcauley/" target="_blank" rel="noopener noreferrer">Prof. Julian McAuley</a>.
+      </p>
 
       <div class="contact-block">
         <p class="contact-label">Reach out</p>
