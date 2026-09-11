@@ -272,10 +272,10 @@ a:focus-visible {
     border: 0;
     color: #242320;
     font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
-    font-size: clamp(2.5rem, 4.5vw, 3.75rem);
-    font-weight: 700;
-    letter-spacing: -0.045em;
-    line-height: 1.05;
+    font-size: clamp(2.05rem, 3.5vw, 2.75rem);
+    font-weight: 500;
+    letter-spacing: -0.03em;
+    line-height: 1.12;
 }
 
 .hero__intro {
@@ -413,10 +413,10 @@ a:focus-visible {
     margin: 0;
     color: var(--home-ink);
     font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
-    font-size: clamp(1.9rem, 3vw, 2.4rem);
-    font-weight: 700;
-    letter-spacing: -0.035em;
-    line-height: 1.15;
+    font-size: clamp(1.35rem, 2vw, 1.6rem);
+    font-weight: 600;
+    letter-spacing: -0.02em;
+    line-height: 1.25;
 }
 
 .page__content .section-heading h2 i {
@@ -566,7 +566,7 @@ a:focus-visible {
     color: #2f2f2f;
     font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
     font-size: 1.08rem;
-    font-weight: 700;
+    font-weight: 600;
     letter-spacing: -0.02em;
 }
 
@@ -709,7 +709,7 @@ a:focus-visible {
     }
 
     .page__content .hero h1 {
-        font-size: clamp(2.4rem, 12vw, 3.2rem);
+        font-size: clamp(2rem, 9vw, 2.45rem);
     }
 
     .content-section {
