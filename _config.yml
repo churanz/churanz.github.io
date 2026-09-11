@@ -27,7 +27,7 @@ author:
   location         : "Mountain View, CA, USA"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=vCVj95IAAAAJ&hl=en"
+  googlescholar    : "https://scholar.google.com/citations?user=jkCtltsAAAAJ&hl=en"
   # semanticscholar  : ""
   email            : "crleozhi@gmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
@@ -163,4 +163,3 @@ compress_html:
   clippings: all
   ignore:
     envs: development
-

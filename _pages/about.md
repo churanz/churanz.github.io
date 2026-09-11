@@ -13,8 +13,8 @@ redirect_from:
     <div class="hero__content">
       <h1 id="hero-title">Churan Zhi</h1>
       <p class="hero__intro">
-        I’m a Software Engineer on the <strong>Gemini in Chrome</strong> team at Google,
-        where I work on agentic browsing and the infrastructure that powers browser agents.
+        I’m currently a Software Engineer at Google, working on agentic browsing for <strong>Gemini in Chrome</strong>.
+        My research is driven by a simple goal: building browser and computer-use agents that are faster, more reliable, and genuinely useful in the real world.
       </p>
       <div class="contact-block">
         <p class="contact-label">Reach out</p>
@@ -28,7 +28,7 @@ redirect_from:
           <a class="contact-link" href="https://github.com/churanz" target="_blank" rel="noopener noreferrer" aria-label="Churan Zhi on GitHub" title="GitHub">
             <i class="fab fa-github" aria-hidden="true"></i>
           </a>
-          <a class="contact-link" href="https://scholar.google.com/citations?user=vCVj95IAAAAJ&amp;hl=en" target="_blank" rel="noopener noreferrer" aria-label="Churan Zhi on Google Scholar" title="Google Scholar">
+          <a class="contact-link" href="https://scholar.google.com/citations?user=jkCtltsAAAAJ&amp;hl=en" target="_blank" rel="noopener noreferrer" aria-label="Churan Zhi on Google Scholar" title="Google Scholar">
             <i class="fas fa-graduation-cap" aria-hidden="true"></i>
           </a>
         </div>
