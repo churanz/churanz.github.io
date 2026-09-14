@@ -147,7 +147,7 @@ redirect_from:
           </div>
           <div class="experience-secondary">
             <p class="experience-location">Mountain View, CA</p>
-            <p class="experience-focus">Gemini in Chrome: Agentic Browsing &amp; Infrastructure</p>
+            <p class="experience-focus">Gemini in Chrome</p>
           </div>
         </div>
       </article>
