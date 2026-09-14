@@ -50,17 +50,17 @@ redirect_from:
     <div class="publication-list">
       <article class="publication-card">
         <div class="publication-content">
-          <h3><a href="https://arxiv.org/abs/2602.16313" target="_blank" rel="noopener noreferrer">MemoryArena: Benchmarking Agent Memory in Interdependent Multi-Session Agentic Tasks</a></h3>
-          <p class="publication-authors">Zexue He<sup>*</sup>, Yu Wang<sup>*</sup>, <strong>Churan Zhi<sup>*</sup></strong>, Yuanzhe Hu<sup>*</sup>, Tzu-Ping Chen<sup>*</sup>, Lang Yin<sup>*</sup>, Ze Chen, Tong Arthur Wu, Siru Ouyang, Zihan Wang, Jiaxin Pei, Julian McAuley, Yejin Choi, Alex Pentland</p>
-          <div class="publication-footer"><span class="venue">ICML 2026</span><a href="https://arxiv.org/abs/2602.16313" target="_blank" rel="noopener noreferrer">[Paper]</a></div>
+          <h3><a href="https://arxiv.org/abs/2510.25091" target="_blank" rel="noopener noreferrer">H3M-SSMoEs: Hypergraph-based Multimodal Learning with LLM Reasoning and Style-Structured Mixture of Experts</a></h3>
+          <p class="publication-authors">Peilin Tan, Liang Xie, <strong>Churan Zhi</strong>, Dian Tu, Chuanqi Shi</p>
+          <div class="publication-footer"><span class="venue">AAAI 2027</span><a href="https://arxiv.org/abs/2510.25091" target="_blank" rel="noopener noreferrer">[Paper]</a></div>
         </div>
       </article>
 
       <article class="publication-card">
         <div class="publication-content">
-          <h3><a href="https://arxiv.org/abs/2510.25091" target="_blank" rel="noopener noreferrer">H3M-SSMoEs: Hypergraph-based Multimodal Learning with LLM Reasoning and Style-Structured Mixture of Experts</a></h3>
-          <p class="publication-authors">Peilin Tan, Liang Xie, <strong>Churan Zhi</strong>, Dian Tu, Chuanqi Shi</p>
-          <div class="publication-footer"><span class="venue">AAAI 2027</span><a href="https://arxiv.org/abs/2510.25091" target="_blank" rel="noopener noreferrer">[Paper]</a></div>
+          <h3><a href="https://arxiv.org/abs/2602.16313" target="_blank" rel="noopener noreferrer">MemoryArena: Benchmarking Agent Memory in Interdependent Multi-Session Agentic Tasks</a></h3>
+          <p class="publication-authors">Zexue He<sup>*</sup>, Yu Wang<sup>*</sup>, <strong>Churan Zhi<sup>*</sup></strong>, Yuanzhe Hu<sup>*</sup>, Tzu-Ping Chen<sup>*</sup>, Lang Yin<sup>*</sup>, Ze Chen, Tong Arthur Wu, Siru Ouyang, Zihan Wang, Jiaxin Pei, Julian McAuley, Yejin Choi, Alex Pentland</p>
+          <div class="publication-footer"><span class="venue">ICML 2026</span><a href="https://arxiv.org/abs/2602.16313" target="_blank" rel="noopener noreferrer">[Paper]</a></div>
         </div>
       </article>
 
