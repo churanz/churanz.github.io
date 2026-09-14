@@ -58,17 +58,17 @@ redirect_from:
 
       <article class="publication-card">
         <div class="publication-content">
-          <h3><a href="https://fengyao.notion.site/moe-posttraining" target="_blank" rel="noopener noreferrer">DenseMixer: Improving MoE Post-Training with Precise Router Gradients</a></h3>
-          <p class="publication-authors">Feng Yao, Junxia Cui, Ruohan Zhang, Liyuan Liu, Shibo Hao, Li Zhang, Chengyu Dong, <strong>Churan Zhi</strong>, Shuohang Wang, Yelong Shen, Jianfeng Gao, Jingbo Shang</p>
-          <div class="publication-footer"><span class="venue">EMNLP 2026</span><a href="https://fengyao.notion.site/moe-posttraining" target="_blank" rel="noopener noreferrer">[Paper]</a></div>
+          <h3><a href="https://arxiv.org/abs/2510.25091" target="_blank" rel="noopener noreferrer">H3M-SSMoEs: Hypergraph-based Multimodal Learning with LLM Reasoning and Style-Structured Mixture of Experts</a></h3>
+          <p class="publication-authors">Peilin Tan, Liang Xie, <strong>Churan Zhi</strong>, Dian Tu, Chuanqi Shi</p>
+          <div class="publication-footer"><span class="venue">AAAI 2027</span><a href="https://arxiv.org/abs/2510.25091" target="_blank" rel="noopener noreferrer">[Paper]</a></div>
         </div>
       </article>
 
       <article class="publication-card">
         <div class="publication-content">
-          <h3><a href="https://arxiv.org/abs/2510.25091" target="_blank" rel="noopener noreferrer">H3M-SSMoEs: Hypergraph-based Multimodal Learning with LLM Reasoning and Style-Structured Mixture of Experts</a></h3>
-          <p class="publication-authors">Peilin Tan, Liang Xie, <strong>Churan Zhi</strong>, Dian Tu, Chuanqi Shi</p>
-          <div class="publication-footer"><span class="venue">AAAI 2027</span><a href="https://arxiv.org/abs/2510.25091" target="_blank" rel="noopener noreferrer">[Paper]</a></div>
+          <h3><a href="https://fengyao.notion.site/moe-posttraining" target="_blank" rel="noopener noreferrer">DenseMixer: Improving MoE Post-Training with Precise Router Gradients</a></h3>
+          <p class="publication-authors">Feng Yao, Junxia Cui, Ruohan Zhang, Liyuan Liu, Shibo Hao, Li Zhang, Chengyu Dong, <strong>Churan Zhi</strong>, Shuohang Wang, Yelong Shen, Jianfeng Gao, Jingbo Shang</p>
+          <div class="publication-footer"><span class="venue">EMNLP 2026</span><a href="https://fengyao.notion.site/moe-posttraining" target="_blank" rel="noopener noreferrer">[Paper]</a></div>
         </div>
       </article>
 
@@ -80,19 +80,19 @@ redirect_from:
         </div>
       </article>
 
-      <article class="publication-card">
-        <div class="publication-content">
-          <h3><a href="https://arxiv.org/abs/2403.12883" target="_blank" rel="noopener noreferrer">Confusing Pair Correction Based on Category Prototype for Domain Adaptation under Noisy Environments</a></h3>
-          <p class="publication-authors"><strong>Churan Zhi</strong>, Junbao Zhuo, Shuhui Wang</p>
-          <div class="publication-footer"><span class="venue">AAAI 2024</span><a href="https://arxiv.org/abs/2403.12883" target="_blank" rel="noopener noreferrer">[Paper]</a></div>
-        </div>
-      </article>
-
       <article class="publication-card" id="mixweaver">
         <div class="publication-content">
           <h3>MixWeaver: Stem-aware Automatic DJ Transition Generation via Structured Discrete Optimization</h3>
           <p class="publication-authors">Xuran Zhou, Xunyi Jiang, <strong>Churan Zhi</strong>, Junda Wu, Julian McAuley</p>
           <div class="publication-footer"><span class="venue">ISMIR 2026</span><span class="publication-link--placeholder">[Paper]</span></div>
+        </div>
+      </article>
+
+      <article class="publication-card">
+        <div class="publication-content">
+          <h3><a href="https://arxiv.org/abs/2403.12883" target="_blank" rel="noopener noreferrer">Confusing Pair Correction Based on Category Prototype for Domain Adaptation under Noisy Environments</a></h3>
+          <p class="publication-authors"><strong>Churan Zhi</strong>, Junbao Zhuo, Shuhui Wang</p>
+          <div class="publication-footer"><span class="venue">AAAI 2024</span><a href="https://arxiv.org/abs/2403.12883" target="_blank" rel="noopener noreferrer">[Paper]</a></div>
         </div>
       </article>
     </div>
@@ -109,7 +109,7 @@ redirect_from:
         <div class="education-content">
           <p class="education-date">Sep 2024 — Mar 2026</p>
           <h3>University of California, San Diego</h3>
-          <p class="education-program">M.S. in Computer Science · San Diego, California</p>
+          <p class="education-program">M.S. in Computer Science · San Diego, CA</p>
           <p class="education-advisor"><strong>Advisor:</strong> <a href="https://cseweb.ucsd.edu/~jmcauley/" target="_blank" rel="noopener noreferrer">Julian McAuley</a></p>
           <p class="education-note"><strong>Teaching Assistant</strong> · CSE 153/253: Machine Learning for Music · Mar 2025 — Jun 2025</p>
         </div>
@@ -145,7 +145,7 @@ redirect_from:
             <p class="experience-role">Software Engineer · Full-time</p>
           </div>
           <div class="experience-secondary">
-            <p class="experience-location">Mountain View, California</p>
+            <p class="experience-location">Mountain View, CA</p>
             <p class="experience-focus">Gemini in Chrome: Agentic Browsing &amp; Infrastructure</p>
           </div>
         </div>
@@ -160,7 +160,7 @@ redirect_from:
             <p class="experience-role">Software Engineer Intern</p>
           </div>
           <div class="experience-secondary">
-            <p class="experience-location">Seattle, Washington</p>
+            <p class="experience-location">Seattle, WA</p>
             <p class="experience-focus">Store: Tax Engine</p>
           </div>
         </div>

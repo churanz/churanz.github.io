@@ -568,7 +568,7 @@ a:focus-visible {
 
 .experience-card {
     display: grid;
-    grid-template-columns: 125px 50px minmax(0, 1fr);
+    grid-template-columns: 150px 50px minmax(0, 1fr);
     gap: 1.25rem;
     align-items: start;
     padding: 1.5rem;
@@ -585,6 +585,7 @@ a:focus-visible {
     letter-spacing: 0.07em;
     line-height: 1.6;
     text-transform: uppercase;
+    white-space: nowrap;
 }
 
 .org-mark {
