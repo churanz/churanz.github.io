@@ -13,7 +13,8 @@ redirect_from:
     <div class="hero__content">
       <h1 id="hero-title">Churan Zhi</h1>
       <p class="hero__intro">
-        I’m currently a Software Engineer at Google, working on agentic browsing for <strong>Gemini in Chrome</strong>.
+        I’m currently a Software Engineer on the <strong>Gemini in Chrome</strong> team at Google.
+        I work on browser-use capabilities in Chrome and computer-use capabilities for Gemini and Gemini Spark.
         My research interests lie in enabling AI agents to browse the web and use computers with lower latency and greater reliability.
       </p>
       <div class="contact-block">
