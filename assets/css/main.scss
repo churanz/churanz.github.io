@@ -258,6 +258,7 @@ a:focus-visible {
     align-items: center;
     overflow: hidden;
     padding: 4.25rem 4%;
+    background: #fcfbf8;
 }
 
 .hero__content {
@@ -271,10 +272,10 @@ a:focus-visible {
     padding: 0;
     border: 0;
     color: #242320;
-    font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    font-family: "Bricolage Grotesque", "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
     font-size: clamp(2.05rem, 3.5vw, 2.75rem);
-    font-weight: 500;
-    letter-spacing: -0.03em;
+    font-weight: 400;
+    letter-spacing: -0.045em;
     line-height: 1.12;
 }
 
