@@ -192,7 +192,7 @@ redirect_from:
           </div>
           <div class="experience-secondary">
             <p class="experience-location">Beijing, China</p>
-            <p class="experience-focus">In-Vehicle Conversational AI Agents</p>
+            <p class="experience-focus">In-Vehicle AI Agents</p>
           </div>
         </div>
       </article>
