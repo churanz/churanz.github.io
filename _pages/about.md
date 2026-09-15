@@ -37,7 +37,7 @@ redirect_from:
     </div>
     <figure class="hero__portrait">
       <div class="hero__portrait-frame">
-        <img src="/images/zcr_pic.jpg" alt="Portrait of Churan Zhi" />
+        <img src="/images/zcr_pic.jpg?v=original-20260914" alt="Portrait of Churan Zhi" />
       </div>
     </figure>
   </section>
