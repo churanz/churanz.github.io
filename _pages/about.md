@@ -44,7 +44,7 @@ redirect_from:
 
   <section class="content-section" id="publications" aria-labelledby="publications-title">
     <header class="section-heading">
-      <h2 id="publications-title">Publications</h2>
+      <h2 id="publications-title"><i class="fas fa-book-open" aria-hidden="true"></i>Publications</h2>
     </header>
     <p class="contribution-note"><sup>*</sup> Equal contribution.</p>
 
@@ -133,7 +133,7 @@ redirect_from:
 
   <section class="content-section content-section--last" id="experience" aria-labelledby="experience-title">
     <header class="section-heading">
-      <h2 id="experience-title">Experience</h2>
+      <h2 id="experience-title"><i class="fas fa-briefcase" aria-hidden="true"></i>Experience</h2>
     </header>
 
     <div class="experience-list">
@@ -192,7 +192,7 @@ redirect_from:
           </div>
           <div class="experience-secondary">
             <p class="experience-location">Beijing, China</p>
-            <p class="experience-focus">In-car Conversational AI Agents</p>
+            <p class="experience-focus">In-Vehicle Conversational AI Agents</p>
           </div>
         </div>
       </article>
