@@ -5,11 +5,11 @@ main:
   - title: "Publications"
     url: "/#publications"
 
-  - title: "Education"
-    url: "/#education"
-  
   - title: "Work Experience"
     url: "/#experience"
 
   - title: "Research Experience"
     url: "/#research-experience"
+
+  - title: "Education"
+    url: "/#education"

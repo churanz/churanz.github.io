@@ -99,37 +99,6 @@ redirect_from:
     </div>
   </section>
 
-  <section class="content-section" id="education" aria-labelledby="education-title">
-    <header class="section-heading">
-      <h2 id="education-title"><i class="fas fa-graduation-cap" aria-hidden="true"></i>Education</h2>
-    </header>
-
-    <div class="education-list">
-      <article class="education-row">
-        <p class="education-degree">M.S.</p>
-        <div class="education-content">
-          <p class="education-date">Sep 2024 — Mar 2026</p>
-          <h3>University of California, San Diego</h3>
-          <p class="education-program">M.S. in Computer Science · San Diego, CA</p>
-          <p class="education-advisor"><strong>Advisor:</strong> <a href="https://cseweb.ucsd.edu/~jmcauley/" target="_blank" rel="noopener noreferrer">Julian McAuley</a></p>
-          <p class="education-note"><strong>Teaching Assistant</strong> · CSE 153/253: Machine Learning for Music · Mar 2025 — Jun 2025</p>
-        </div>
-        <img class="education-logo" src="/images/ucsd_badge.png" alt="UC San Diego seal" loading="lazy" />
-      </article>
-
-      <article class="education-row">
-        <p class="education-degree">B.S.</p>
-        <div class="education-content">
-          <p class="education-date">Sep 2020 — Jun 2024</p>
-          <h3>Beijing Jiaotong University</h3>
-          <p class="education-program">B.S. in Computer Science · Beijing, China</p>
-          <p class="education-advisor"><strong>Advisors:</strong> <a href="https://scholar.google.com/citations?hl=zh-CN&amp;user=iBt9uHUAAAAJ&amp;view_op=list_works&amp;sortby=pubdate" target="_blank" rel="noopener noreferrer">Junbao Zhuo</a>, <a href="https://scholar.google.com/citations?user=h-JxBSYAAAAJ&amp;hl=zh-CN" target="_blank" rel="noopener noreferrer">Shuhui Wang</a></p>
-        </div>
-        <img class="education-logo" src="/images/bjtu_badge.png" alt="Beijing Jiaotong University seal" loading="lazy" />
-      </article>
-    </div>
-  </section>
-
   <section class="content-section" id="experience" aria-labelledby="experience-title">
     <header class="section-heading">
       <h2 id="experience-title"><i class="fas fa-briefcase" aria-hidden="true"></i>Work Experience</h2>
@@ -198,7 +167,7 @@ redirect_from:
 
     </div>
   </section>
-  <section class="content-section content-section--last" id="research-experience" aria-labelledby="research-experience-title">
+  <section class="content-section" id="research-experience" aria-labelledby="research-experience-title">
     <header class="section-heading">
       <h2 id="research-experience-title"><i class="fas fa-flask" aria-hidden="true"></i>Research Experience</h2>
     </header>
@@ -222,12 +191,43 @@ redirect_from:
         <div class="research-content">
           <div class="research-heading">
             <h3>Institute of Computing Technology, Chinese Academy of Sciences</h3>
-            <p class="research-date">Feb 2022 – Aug 2023</p>
+            <p class="research-date">Dec 2021 – Feb 2024</p>
           </div>
           <p class="research-role">Research Assistant · Beijing, China</p>
           <p class="research-focus">Visual Information Processing and Learning (VIPL) Research Group: Transfer Learning and Domain Adaptation</p>
           <p class="education-advisor"><strong>Advisors:</strong> <a href="https://scholar.google.com/citations?hl=zh-CN&amp;user=iBt9uHUAAAAJ&amp;view_op=list_works&amp;sortby=pubdate" target="_blank" rel="noopener noreferrer">Junbao Zhuo</a>, <a href="https://scholar.google.com/citations?user=h-JxBSYAAAAJ&amp;hl=zh-CN" target="_blank" rel="noopener noreferrer">Shuhui Wang</a></p>
         </div>
+      </article>
+    </div>
+  </section>
+
+  <section class="content-section content-section--last" id="education" aria-labelledby="education-title">
+    <header class="section-heading">
+      <h2 id="education-title"><i class="fas fa-graduation-cap" aria-hidden="true"></i>Education</h2>
+    </header>
+
+    <div class="education-list">
+      <article class="education-row">
+        <p class="education-degree">M.S.</p>
+        <div class="education-content">
+          <p class="education-date">Sep 2024 — Mar 2026</p>
+          <h3>University of California, San Diego</h3>
+          <p class="education-program">M.S. in Computer Science · San Diego, CA</p>
+          <p class="education-advisor"><strong>Advisor:</strong> <a href="https://cseweb.ucsd.edu/~jmcauley/" target="_blank" rel="noopener noreferrer">Julian McAuley</a></p>
+          <p class="education-note"><strong>Teaching Assistant</strong> · CSE 153/253: Machine Learning for Music · Mar 2025 — Jun 2025</p>
+        </div>
+        <img class="education-logo" src="/images/ucsd_badge.png" alt="UC San Diego seal" loading="lazy" />
+      </article>
+
+      <article class="education-row">
+        <p class="education-degree">B.S.</p>
+        <div class="education-content">
+          <p class="education-date">Sep 2020 — Jun 2024</p>
+          <h3>Beijing Jiaotong University</h3>
+          <p class="education-program">B.S. in Computer Science · Beijing, China</p>
+          <p class="education-advisor"><strong>Advisors:</strong> <a href="https://scholar.google.com/citations?hl=zh-CN&amp;user=iBt9uHUAAAAJ&amp;view_op=list_works&amp;sortby=pubdate" target="_blank" rel="noopener noreferrer">Junbao Zhuo</a>, <a href="https://scholar.google.com/citations?user=h-JxBSYAAAAJ&amp;hl=zh-CN" target="_blank" rel="noopener noreferrer">Shuhui Wang</a></p>
+        </div>
+        <img class="education-logo" src="/images/bjtu_badge.png" alt="Beijing Jiaotong University seal" loading="lazy" />
       </article>
     </div>
   </section>
