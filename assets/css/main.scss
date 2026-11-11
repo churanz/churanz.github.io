@@ -579,14 +579,15 @@ a:focus-visible {
     background: #fff;
 }
 
-.experience-date {
-    margin: 0.25rem 0 0 !important;
-    color: #817d76;
-    font-size: 0.66rem !important;
-    font-weight: 700;
-    letter-spacing: 0.07em;
+.experience-date,
+.research-date {
+    margin: 0 !important;
+    color: #65615b;
+    font-size: 0.75rem !important;
+    font-weight: 400;
+    letter-spacing: normal;
     line-height: 1.6;
-    text-transform: uppercase;
+    text-transform: none;
     white-space: nowrap;
 }
 
@@ -625,32 +626,39 @@ a:focus-visible {
     align-items: start;
 }
 
-.experience-content h3 {
+.experience-content h3,
+.research-heading h3 {
     margin: 0;
     color: #302e2a;
     font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
-    font-size: 1.12rem;
+    font-size: 1.05rem;
     font-weight: 600;
+    line-height: 1.45;
     letter-spacing: -0.02em;
 }
 
-.experience-role {
-    margin: 0.2rem 0 0 !important;
+.experience-role,
+.research-role {
+    margin: 0.3rem 0 0 !important;
     color: #514e48;
     font-size: 0.84rem !important;
     font-weight: 500;
+    line-height: 1.6;
 }
 
 .experience-location {
     margin: 0.15rem 0 0 !important;
-    color: #918d86;
-    font-size: 0.72rem !important;
+    color: #514e48;
+    font-size: 0.84rem !important;
+    font-weight: 500;
+    line-height: 1.6;
 }
 
-.experience-focus {
-    margin: 0.35rem 0 0 !important;
-    color: #67635d;
-    font-size: 0.83rem !important;
+.experience-focus,
+.research-focus {
+    margin: 0.3rem 0 0 !important;
+    color: #514e48;
+    font-size: 0.84rem !important;
     line-height: 1.6;
 }
 
@@ -683,32 +691,6 @@ a:focus-visible {
 
 .research-heading h3 {
     flex: 1 1 280px;
-    margin: 0;
-    color: #302e2a;
-    font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
-    font-size: 1.05rem;
-    font-weight: 600;
-    line-height: 1.45;
-    letter-spacing: -0.02em;
-}
-
-.research-date {
-    margin: 0 !important;
-    color: #65615b;
-    font-size: 0.75rem !important;
-    white-space: nowrap;
-}
-
-.research-role,
-.research-focus {
-    margin: 0.3rem 0 0 !important;
-    color: #514e48;
-    font-size: 0.84rem !important;
-    line-height: 1.6;
-}
-
-.research-role {
-    font-weight: 500;
 }
 
 .site-footer {
