@@ -8,5 +8,8 @@ main:
   - title: "Education"
     url: "/#education"
   
-  - title: "Experience"
+  - title: "Work Experience"
     url: "/#experience"
+
+  - title: "Research Experience"
+    url: "/#research-experience"

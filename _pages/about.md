@@ -124,16 +124,15 @@ redirect_from:
           <h3>Beijing Jiaotong University</h3>
           <p class="education-program">B.S. in Computer Science · Beijing, China</p>
           <p class="education-advisor"><strong>Advisors:</strong> <a href="https://scholar.google.com/citations?hl=zh-CN&amp;user=iBt9uHUAAAAJ&amp;view_op=list_works&amp;sortby=pubdate" target="_blank" rel="noopener noreferrer">Junbao Zhuo</a>, <a href="https://scholar.google.com/citations?user=h-JxBSYAAAAJ&amp;hl=zh-CN" target="_blank" rel="noopener noreferrer">Shuhui Wang</a></p>
-          <p class="education-note"><strong>Research Assistant</strong> · Institute of Computing Technology, Chinese Academy of Sciences · Feb 2022 — Aug 2023<br />Visual Information Processing and Learning (VIPL) Research Group · Beijing, China</p>
         </div>
         <img class="education-logo" src="/images/bjtu_badge.png" alt="Beijing Jiaotong University seal" loading="lazy" />
       </article>
     </div>
   </section>
 
-  <section class="content-section content-section--last" id="experience" aria-labelledby="experience-title">
+  <section class="content-section" id="experience" aria-labelledby="experience-title">
     <header class="section-heading">
-      <h2 id="experience-title"><i class="fas fa-briefcase" aria-hidden="true"></i>Experience</h2>
+      <h2 id="experience-title"><i class="fas fa-briefcase" aria-hidden="true"></i>Work Experience</h2>
     </header>
 
     <div class="experience-list">
@@ -197,6 +196,39 @@ redirect_from:
         </div>
       </article>
 
+    </div>
+  </section>
+  <section class="content-section content-section--last" id="research-experience" aria-labelledby="research-experience-title">
+    <header class="section-heading">
+      <h2 id="research-experience-title"><i class="fas fa-flask" aria-hidden="true"></i>Research Experience</h2>
+    </header>
+
+    <div class="research-list">
+      <article class="research-row">
+        <img class="research-logo" src="/images/ucsd_badge.png" alt="UC San Diego seal" loading="lazy" />
+        <div class="research-content">
+          <div class="research-heading">
+            <h3>University of California, San Diego</h3>
+            <p class="research-date">Nov 2024 – Mar 2026</p>
+          </div>
+          <p class="research-role">Research Assistant · San Diego, CA</p>
+          <p class="research-focus">Trustworthy AI and Agent Memory</p>
+          <p class="education-advisor"><strong>Advisor:</strong> <a href="https://cseweb.ucsd.edu/~jmcauley/" target="_blank" rel="noopener noreferrer">Julian McAuley</a></p>
+        </div>
+      </article>
+
+      <article class="research-row">
+        <img class="research-logo" src="/images/org-logos/cas.jpg" alt="Chinese Academy of Sciences logo" loading="lazy" />
+        <div class="research-content">
+          <div class="research-heading">
+            <h3>Institute of Computing Technology, Chinese Academy of Sciences</h3>
+            <p class="research-date">Feb 2022 – Aug 2023</p>
+          </div>
+          <p class="research-role">Research Assistant · Beijing, China</p>
+          <p class="research-focus">Visual Information Processing and Learning (VIPL) Research Group: Transfer Learning and Domain Adaptation</p>
+          <p class="education-advisor"><strong>Advisors:</strong> <a href="https://scholar.google.com/citations?hl=zh-CN&amp;user=iBt9uHUAAAAJ&amp;view_op=list_works&amp;sortby=pubdate" target="_blank" rel="noopener noreferrer">Junbao Zhuo</a>, <a href="https://scholar.google.com/citations?user=h-JxBSYAAAAJ&amp;hl=zh-CN" target="_blank" rel="noopener noreferrer">Shuhui Wang</a></p>
+        </div>
+      </article>
     </div>
   </section>
 </div>

@@ -376,7 +376,8 @@ a:focus-visible {
     background: #ffffff;
 }
 
-#education {
+#education,
+#research-experience {
     background: #ffffff;
 }
 
@@ -651,6 +652,63 @@ a:focus-visible {
     color: #67635d;
     font-size: 0.83rem !important;
     line-height: 1.6;
+}
+
+.research-row {
+    display: grid;
+    grid-template-columns: 50px minmax(0, 1fr);
+    gap: 1.25rem;
+    padding: 1.3rem 0;
+    border-top: 1px solid var(--home-line);
+}
+
+.research-row:last-child {
+    padding-bottom: 0;
+}
+
+.research-logo {
+    width: 50px;
+    height: 50px;
+    margin: 0;
+    object-fit: contain;
+}
+
+.research-heading {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: baseline;
+    gap: 0.3rem 1.25rem;
+}
+
+.research-heading h3 {
+    flex: 1 1 280px;
+    margin: 0;
+    color: #302e2a;
+    font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    font-size: 1.05rem;
+    font-weight: 600;
+    line-height: 1.45;
+    letter-spacing: -0.02em;
+}
+
+.research-date {
+    margin: 0 !important;
+    color: #65615b;
+    font-size: 0.75rem !important;
+    white-space: nowrap;
+}
+
+.research-role,
+.research-focus {
+    margin: 0.3rem 0 0 !important;
+    color: #514e48;
+    font-size: 0.84rem !important;
+    line-height: 1.6;
+}
+
+.research-role {
+    font-weight: 500;
 }
 
 .site-footer {
