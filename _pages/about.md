@@ -83,9 +83,9 @@ redirect_from:
 
       <article class="publication-card" id="mixweaver">
         <div class="publication-content">
-          <h3>MixWeaver: Stem-aware Automatic DJ Transition Generation via Structured Discrete Optimization</h3>
+          <h3><a href="https://ismir2026program.ismir.net/poster_428.html#details" target="_blank" rel="noopener noreferrer">MixWeaver: Stem-aware Automatic DJ Transition Generation via Structured Discrete Optimization</a></h3>
           <p class="publication-authors">Xuran Zhou, Xunyi Jiang, <strong>Churan Zhi</strong>, Junda Wu, Julian McAuley</p>
-          <div class="publication-footer"><span class="venue">ISMIR 2026</span><span class="publication-link--placeholder">[Paper]</span></div>
+          <div class="publication-footer"><span class="venue">ISMIR 2026</span><a href="https://ismir2026program.ismir.net/poster_428.html#details" target="_blank" rel="noopener noreferrer">[Paper]</a></div>
         </div>
       </article>
 
