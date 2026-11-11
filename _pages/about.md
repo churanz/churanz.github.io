@@ -194,7 +194,7 @@ redirect_from:
             <p class="research-date">Dec 2021 – Feb 2024</p>
           </div>
           <p class="research-role">Research Assistant · Beijing, China</p>
-          <p class="research-focus">Visual Information Processing and Learning (VIPL) Research Group: Transfer Learning and Domain Adaptation</p>
+          <p class="research-focus">Visual Information Processing and Learning (<a href="https://vipl.ict.ac.cn/en/" target="_blank" rel="noopener noreferrer">VIPL</a>) Research Group: Transfer Learning and Domain Adaptation</p>
           <p class="education-advisor"><strong>Advisors:</strong> <a href="https://scholar.google.com/citations?hl=zh-CN&amp;user=iBt9uHUAAAAJ&amp;view_op=list_works&amp;sortby=pubdate" target="_blank" rel="noopener noreferrer">Junbao Zhuo</a>, <a href="https://scholar.google.com/citations?user=h-JxBSYAAAAJ&amp;hl=zh-CN" target="_blank" rel="noopener noreferrer">Shuhui Wang</a></p>
         </div>
       </article>
