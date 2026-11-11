@@ -57,11 +57,24 @@ redirect_from:
         </div>
       </article>
 
-      <article class="publication-card">
+      <article class="publication-card" id="memoryarena">
         <div class="publication-content">
           <h3><a href="https://arxiv.org/abs/2602.16313" target="_blank" rel="noopener noreferrer">MemoryArena: Benchmarking Agent Memory in Interdependent Multi-Session Agentic Tasks</a></h3>
           <p class="publication-authors">Zexue He<sup>*</sup>, Yu Wang<sup>*</sup>, <strong>Churan Zhi<sup>*</sup></strong>, Yuanzhe Hu<sup>*</sup>, Tzu-Ping Chen<sup>*</sup>, Lang Yin<sup>*</sup>, Ze Chen, Tong Arthur Wu, Siru Ouyang, Zihan Wang, Jiaxin Pei, Julian McAuley, Yejin Choi, Alex Pentland</p>
-          <div class="publication-footer"><span class="venue">ICML 2026</span><a href="https://arxiv.org/abs/2602.16313" target="_blank" rel="noopener noreferrer">[Paper]</a></div>
+          <div class="publication-footer publication-footer--resources">
+            <span class="venue">ICML 2026</span>
+            <a href="https://arxiv.org/abs/2602.16313" target="_blank" rel="noopener noreferrer">[Paper]</a>
+            <a href="https://memoryarena.github.io/" target="_blank" rel="noopener noreferrer">[Website]</a>
+            <a class="publication-badge" href="https://github.com/ZexueHe/MemoryArena" target="_blank" rel="noopener noreferrer" aria-label="MemoryArena on GitHub: stars">
+              <img src="https://img.shields.io/github/stars/ZexueHe/MemoryArena?style=social&amp;label=Stars" alt="GitHub Stars" loading="lazy" />
+            </a>
+            <a class="publication-badge" href="https://huggingface.co/datasets/ZexueHe/memoryarena" target="_blank" rel="noopener noreferrer" aria-label="MemoryArena dataset on Hugging Face">
+              <img src="https://img.shields.io/badge/Dataset-HuggingFace-FFD21E?logo=huggingface&amp;logoColor=FFD21E" alt="Dataset: Hugging Face" loading="lazy" />
+            </a>
+            <a class="publication-badge" href="https://huggingface.co/datasets/ZexueHe/memoryarena" target="_blank" rel="noopener noreferrer" aria-label="MemoryArena total dataset downloads">
+              <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fhuggingface.co%2Fapi%2Fdatasets%2FZexueHe%2Fmemoryarena%3Fexpand%3DdownloadsAllTime&amp;query=%24.downloadsAllTime&amp;label=Total%20Downloads&amp;logo=huggingface&amp;logoColor=FFD21E&amp;color=E87939&amp;cacheSeconds=3600" alt="Total Downloads" loading="lazy" />
+            </a>
+          </div>
         </div>
       </article>
 
