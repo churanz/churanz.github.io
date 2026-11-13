@@ -106,7 +106,7 @@ redirect_from:
         <div class="publication-content">
           <h3>Confusing Pair Correction Based on Category Prototype for Domain Adaptation under Noisy Environments</h3>
           <p class="publication-authors"><strong>Churan Zhi</strong>, Junbao Zhuo, Shuhui Wang</p>
-          <div class="publication-footer"><span class="venue">AAAI 2024</span><a href="https://arxiv.org/abs/2403.12883" target="_blank" rel="noopener noreferrer">[Paper]</a></div>
+          <div class="publication-footer"><span class="venue">AAAI 2024</span><a href="https://ojs.aaai.org/index.php/AAAI/article/view/29650" target="_blank" rel="noopener noreferrer">[Paper]</a></div>
         </div>
       </article>
     </div>
