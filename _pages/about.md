@@ -13,9 +13,9 @@ redirect_from:
     <div class="hero__content">
       <h1 id="hero-title">Churan Zhi</h1>
       <p class="hero__intro">
-        I’m currently a Software Engineer on the <strong>Gemini in Chrome</strong> team at Google.
-        I work on browser-use capabilities in Chrome and computer-use capabilities for Gemini and Gemini Spark.
-        My research interests lie in enabling AI agents to browse the web and use computers with lower latency and greater reliability.
+        I’m currently a Software Engineer on the <strong>Gemini in Chrome</strong> team at <strong>Google</strong>.
+        I build <strong>browser-use</strong> and <strong>computer-use</strong> capabilities, as well as the core <strong>agent infrastructure</strong> powering <strong>Gemini Chat</strong> and <strong>Gemini Spark</strong>.
+        My research interests focus on enabling AI agents to navigate the web and operate computers with <strong>lower latency and higher reliability</strong>.
       </p>
       <div class="contact-block">
         <p class="contact-label">Reach out</p>
