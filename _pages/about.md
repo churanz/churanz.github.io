@@ -15,7 +15,12 @@ redirect_from:
       <p class="hero__intro">
         I’m currently a Software Engineer on the <strong><a href="https://gemini.google/overview/gemini-in-chrome/" target="_blank" rel="noopener noreferrer">Gemini in Chrome</a></strong> team at <strong>Google</strong>.
         I build <strong>browser-use</strong> and <strong>computer-use</strong> capabilities, as well as the core <strong>agent infrastructure</strong> powering <strong>Gemini Chat</strong> and <strong>Gemini Spark</strong>.
-        My research interests focus on enabling AI agents to navigate the web and operate computers with <strong>lower latency and higher reliability</strong>.
+        My research interests focus on enabling AI agents to navigate the web and operate computers with <strong>lower latency and higher reliability</strong>, and on building <strong>scalable, efficient agent infrastructure</strong>.
+      </p>
+      <p class="hero__intro">
+        Prior to joining Google, I received my M.S. in Computer Science at <strong>UC San Diego</strong>, advised by <a href="https://cseweb.ucsd.edu/~jmcauley/" target="_blank" rel="noopener noreferrer">Prof. Julian McAuley</a>, where I worked on <strong>agent memory</strong>, <strong>trustworthy AI</strong>, and <strong>MoE post-training</strong>.
+        Earlier, I earned my B.S. at <strong>Beijing Jiaotong University</strong> and researched <strong>domain adaptation</strong> as a Research Assistant in the <a href="https://vipl.ict.ac.cn/en/" target="_blank" rel="noopener noreferrer">VIPL group</a> at the Institute of Computing Technology, Chinese Academy of Sciences, advised by <a href="https://scholar.google.com/citations?hl=zh-CN&amp;user=iBt9uHUAAAAJ&amp;view_op=list_works&amp;sortby=pubdate" target="_blank" rel="noopener noreferrer">Junbao Zhuo</a> and <a href="https://scholar.google.com/citations?user=h-JxBSYAAAAJ&amp;hl=zh-CN" target="_blank" rel="noopener noreferrer">Shuhui Wang</a>.
+        I also interned at <strong>Amazon</strong>, <strong>Microsoft</strong>, and <strong>Xiaomi</strong>.
       </p>
       <div class="contact-block">
         <p class="contact-label">Reach out</p>

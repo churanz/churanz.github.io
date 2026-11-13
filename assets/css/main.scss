@@ -565,9 +565,15 @@ a:focus-visible {
 
 .education-advisor a,
 .research-focus a,
-.experience-focus a,
-.hero__intro a {
+.experience-focus a {
     color: #2368b3;
+}
+
+.page__content .hero__intro a {
+    color: inherit;
+    text-decoration: underline;
+    text-decoration-thickness: 1px;
+    text-underline-offset: 3px;
 }
 
 .education-note {
