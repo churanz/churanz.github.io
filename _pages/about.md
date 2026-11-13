@@ -80,9 +80,9 @@ redirect_from:
 
       <article class="publication-card">
         <div class="publication-content">
-          <h3>H3M-SSMoEs: Hypergraph-based Multimodal Learning with LLM Reasoning and Style-Structured Mixture of Experts</h3>
-          <p class="publication-authors">Peilin Tan, Liang Xie, <strong>Churan Zhi</strong>, Dian Tu, Chuanqi Shi</p>
-          <div class="publication-footer"><span class="venue">AAAI 2027</span><a href="https://arxiv.org/abs/2510.25091" target="_blank" rel="noopener noreferrer">[Paper]</a></div>
+          <h3>BiasFreeBench: A Benchmark for Mitigating Bias in Large Language Model Responses</h3>
+          <p class="publication-authors">Xin Xu, Xunzhi He<sup>*</sup>, <strong>Churan Zhi<sup>*</sup></strong>, Ruizhe Chen, Julian McAuley, Zexue He</p>
+          <div class="publication-footer"><span class="venue">ICLR 2026</span><a href="https://arxiv.org/abs/2510.00232" target="_blank" rel="noopener noreferrer">[Paper]</a></div>
         </div>
       </article>
 
@@ -96,9 +96,9 @@ redirect_from:
 
       <article class="publication-card">
         <div class="publication-content">
-          <h3>BiasFreeBench: A Benchmark for Mitigating Bias in Large Language Model Responses</h3>
-          <p class="publication-authors">Xin Xu, Xunzhi He<sup>*</sup>, <strong>Churan Zhi<sup>*</sup></strong>, Ruizhe Chen, Julian McAuley, Zexue He</p>
-          <div class="publication-footer"><span class="venue">ICLR 2026</span><a href="https://arxiv.org/abs/2510.00232" target="_blank" rel="noopener noreferrer">[Paper]</a></div>
+          <h3>H3M-SSMoEs: Hypergraph-based Multimodal Learning with LLM Reasoning and Style-Structured Mixture of Experts</h3>
+          <p class="publication-authors">Peilin Tan, Liang Xie, <strong>Churan Zhi</strong>, Dian Tu, Chuanqi Shi</p>
+          <div class="publication-footer"><span class="venue">AAAI 2027</span><a href="https://arxiv.org/abs/2510.25091" target="_blank" rel="noopener noreferrer">[Paper]</a></div>
         </div>
       </article>
 
