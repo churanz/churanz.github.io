@@ -156,7 +156,8 @@ a:focus-visible {
 .masthead__inner-wrap {
     max-width: 1080px;
     padding: 0.85rem 1.25rem;
-    font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    font-family: "Fraunces", Georgia, serif;
+    font-optical-sizing: auto;
 }
 
 .masthead__menu-item {
@@ -165,9 +166,10 @@ a:focus-visible {
 
 .masthead__menu-item a {
     color: #5f6073;
-    font-size: 0.78rem;
-    font-weight: 600;
-    letter-spacing: 0.025em;
+    font-family: "Fraunces", Georgia, serif;
+    font-size: 16px;
+    font-weight: 400;
+    letter-spacing: 0;
 }
 
 .masthead__menu-item a:hover {
@@ -176,10 +178,10 @@ a:focus-visible {
 
 .masthead__menu-item--lg a {
     color: var(--home-ink);
-    font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
-    font-size: 0.86rem;
-    font-weight: 700;
-    letter-spacing: -0.02em;
+    font-family: "Fraunces", Georgia, serif;
+    font-size: 23px;
+    font-weight: 500;
+    letter-spacing: -0.025em;
 }
 
 .greedy-nav {
