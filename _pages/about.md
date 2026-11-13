@@ -13,7 +13,7 @@ redirect_from:
     <div class="hero__content">
       <h1 id="hero-title">Churan Zhi</h1>
       <p class="hero__intro">
-        I’m currently a Software Engineer on the <strong>Gemini in Chrome</strong> team at <strong>Google</strong>.
+        I’m currently a Software Engineer on the <strong><a href="https://gemini.google/overview/gemini-in-chrome/" target="_blank" rel="noopener noreferrer">Gemini in Chrome</a></strong> team at <strong>Google</strong>.
         I build <strong>browser-use</strong> and <strong>computer-use</strong> capabilities, as well as the core <strong>agent infrastructure</strong> powering <strong>Gemini Chat</strong> and <strong>Gemini Spark</strong>.
         My research interests focus on enabling AI agents to navigate the web and operate computers with <strong>lower latency and higher reliability</strong>.
       </p>
@@ -128,7 +128,7 @@ redirect_from:
           </div>
           <div class="experience-secondary">
             <p class="experience-location">Mountain View, CA</p>
-            <p class="experience-focus">Gemini in Chrome</p>
+            <p class="experience-focus"><a href="https://gemini.google/overview/gemini-in-chrome/" target="_blank" rel="noopener noreferrer">Gemini in Chrome</a></p>
           </div>
         </div>
       </article>
