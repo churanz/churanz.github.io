@@ -49,14 +49,6 @@ redirect_from:
     <p class="contribution-note"><sup>*</sup> Equal contribution.</p>
 
     <div class="publication-list">
-      <article class="publication-card">
-        <div class="publication-content">
-          <h3>H3M-SSMoEs: Hypergraph-based Multimodal Learning with LLM Reasoning and Style-Structured Mixture of Experts</h3>
-          <p class="publication-authors">Peilin Tan, Liang Xie, <strong>Churan Zhi</strong>, Dian Tu, Chuanqi Shi</p>
-          <div class="publication-footer"><span class="venue">AAAI 2027</span><a href="https://arxiv.org/abs/2510.25091" target="_blank" rel="noopener noreferrer">[Paper]</a></div>
-        </div>
-      </article>
-
       <article class="publication-card" id="memoryarena">
         <div class="publication-content">
           <h3>MemoryArena: Benchmarking Agent Memory in Interdependent Multi-Session Agentic Tasks</h3>
@@ -75,6 +67,22 @@ redirect_from:
               <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fhuggingface.co%2Fapi%2Fdatasets%2FZexueHe%2Fmemoryarena%3Fexpand%3DdownloadsAllTime&amp;query=%24.downloadsAllTime&amp;label=Total%20Downloads&amp;logo=huggingface&amp;logoColor=FFD21E&amp;color=E87939&amp;cacheSeconds=3600" alt="Total Downloads" loading="lazy" />
             </a>
           </div>
+        </div>
+      </article>
+
+      <article class="publication-card">
+        <div class="publication-content">
+          <h3>Confusing Pair Correction Based on Category Prototype for Domain Adaptation under Noisy Environments</h3>
+          <p class="publication-authors"><strong>Churan Zhi</strong>, Junbao Zhuo, Shuhui Wang</p>
+          <div class="publication-footer"><span class="venue">AAAI 2024</span><a href="https://ojs.aaai.org/index.php/AAAI/article/view/29650" target="_blank" rel="noopener noreferrer">[Paper]</a></div>
+        </div>
+      </article>
+
+      <article class="publication-card">
+        <div class="publication-content">
+          <h3>H3M-SSMoEs: Hypergraph-based Multimodal Learning with LLM Reasoning and Style-Structured Mixture of Experts</h3>
+          <p class="publication-authors">Peilin Tan, Liang Xie, <strong>Churan Zhi</strong>, Dian Tu, Chuanqi Shi</p>
+          <div class="publication-footer"><span class="venue">AAAI 2027</span><a href="https://arxiv.org/abs/2510.25091" target="_blank" rel="noopener noreferrer">[Paper]</a></div>
         </div>
       </article>
 
@@ -99,14 +107,6 @@ redirect_from:
           <h3>MixWeaver: Stem-aware Automatic DJ Transition Generation via Structured Discrete Optimization</h3>
           <p class="publication-authors">Xuran Zhou, Xunyi Jiang, <strong>Churan Zhi</strong>, Junda Wu, Julian McAuley</p>
           <div class="publication-footer"><span class="venue">ISMIR 2026</span><a href="https://ismir2026program.ismir.net/poster_428.html#details" target="_blank" rel="noopener noreferrer">[Paper]</a></div>
-        </div>
-      </article>
-
-      <article class="publication-card">
-        <div class="publication-content">
-          <h3>Confusing Pair Correction Based on Category Prototype for Domain Adaptation under Noisy Environments</h3>
-          <p class="publication-authors"><strong>Churan Zhi</strong>, Junbao Zhuo, Shuhui Wang</p>
-          <div class="publication-footer"><span class="venue">AAAI 2024</span><a href="https://ojs.aaai.org/index.php/AAAI/article/view/29650" target="_blank" rel="noopener noreferrer">[Paper]</a></div>
         </div>
       </article>
     </div>
