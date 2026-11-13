@@ -227,7 +227,7 @@ redirect_from:
           <h3>University of California, San Diego</h3>
           <p class="education-program">M.S. in Computer Science · San Diego, CA</p>
           <p class="education-advisor"><strong>Advisor:</strong> <a href="https://cseweb.ucsd.edu/~jmcauley/" target="_blank" rel="noopener noreferrer">Julian McAuley</a></p>
-          <p class="education-note"><strong>Teaching Assistant</strong> · CSE 153/253: Machine Learning for Music · 2025</p>
+          <p class="education-note"><strong>Teaching Assistant</strong> · CSE 153/253: Machine Learning for Music · Mar 2025 – Jun 2025</p>
         </div>
         <img class="education-logo" src="/images/ucsd_badge.png" alt="UC San Diego seal" loading="lazy" />
       </article>
