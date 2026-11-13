@@ -607,13 +607,20 @@ a:focus-visible {
     background: #fff;
 }
 
+.education-date,
+.experience-date,
+.research-date {
+    font-family: "DM Mono", monospace;
+    font-variant-numeric: tabular-nums;
+    letter-spacing: -0.035em;
+}
+
 .experience-date,
 .research-date {
     margin: 0 !important;
     color: #65615b;
     font-size: 0.75rem !important;
     font-weight: 400;
-    letter-spacing: normal;
     line-height: 1.6;
     text-transform: none;
     white-space: nowrap;
