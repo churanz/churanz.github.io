@@ -13,12 +13,12 @@ redirect_from:
     <div class="hero__content">
       <h1 id="hero-title">Churan Zhi</h1>
       <p class="hero__intro">
-        I’m currently a Software Engineer on the <a href="https://gemini.google/overview/gemini-in-chrome/" target="_blank" rel="noopener noreferrer">Gemini in Chrome</a> team at Google.
-        I build browser-use and computer-use capabilities, as well as the core agent infrastructure powering Gemini Chat and Gemini Spark.
+        I’m currently a Software Engineer on the <strong><a href="https://gemini.google/overview/gemini-in-chrome/" target="_blank" rel="noopener noreferrer">Gemini in Chrome</a></strong> team at Google.
+        <strong>I build browser-use and computer-use capabilities, as well as the core agent infrastructure powering Gemini Chat and Gemini Spark.</strong>
         My research interests focus on enabling AI agents to navigate the web and operate computers with lower latency and higher reliability, and on building scalable, efficient agent infrastructure.
       </p>
       <p class="hero__intro">
-        Prior to joining Google, I received my M.S. in Computer Science at UC San Diego, advised by <a href="https://cseweb.ucsd.edu/~jmcauley/" target="_blank" rel="noopener noreferrer">Prof. Julian McAuley</a>, where I worked on agent memory, trustworthy AI, and MoE post-training.
+        Prior to joining Google, I received my M.S. in Computer Science at UC San Diego, advised by <a href="https://cseweb.ucsd.edu/~jmcauley/" target="_blank" rel="noopener noreferrer">Prof. Julian McAuley</a>, where I worked on <strong>agent memory, trustworthy AI, and MoE post-training</strong>.
         Earlier, I earned my B.S. at Beijing Jiaotong University and researched domain adaptation as a Research Assistant in the <a href="https://vipl.ict.ac.cn/en/" target="_blank" rel="noopener noreferrer">VIPL group</a> at the Institute of Computing Technology, Chinese Academy of Sciences, advised by <a href="https://scholar.google.com/citations?hl=zh-CN&amp;user=iBt9uHUAAAAJ&amp;view_op=list_works&amp;sortby=pubdate" target="_blank" rel="noopener noreferrer">Junbao Zhuo</a> and <a href="https://scholar.google.com/citations?user=h-JxBSYAAAAJ&amp;hl=zh-CN" target="_blank" rel="noopener noreferrer">Shuhui Wang</a>.
         I also interned at Amazon, Microsoft, and Xiaomi.
       </p>
